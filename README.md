@@ -12,6 +12,10 @@ https://github.com/EloiStree/HelloGodotCode
 
 -----------------------------
 
+-----------------------------
+
+> Reminder that bought it and need to look around it
+
 If you plan to learn Godot 2D, there is this big tutorial.
 (Be careful, they are trying to make you subscribe to their shit outside of pdf and video like humble should be... But the tutorials feel big)
 
