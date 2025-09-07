@@ -7,3 +7,9 @@ Want to learn Godot? Same here 😁. Let’s put together a list of the main con
 
 Coding section is here:  
 https://github.com/EloiStree/HelloGodotCode  
+
+
+Humble Tutorial: [🔗💲](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)([Access to](https://academy.zenva.com/course/godot-3d-platformer-course))  
+
+
+
