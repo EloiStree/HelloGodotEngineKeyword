@@ -12,8 +12,8 @@ https://github.com/EloiStree/HelloGodotCode
 
 -----------------------------
 
-> Good way to learn about Godot way of working is to watch on the official Discord the FAQ: [🔗](https://discord.com/channels/1235157165589794909/1260700855401975849)
-Discord Server: https://discord.com/invite/godotengine
+> Good way to learn about Godot way of working is to watch on the official Discord the FAQ: [🔗](https://discord.com/channels/1235157165589794909/1260700855401975849)  
+Discord Server: https://discord.com/invite/godotengine  
 > 
  
 -----------------------------
