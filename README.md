@@ -12,8 +12,8 @@ https://github.com/EloiStree/HelloGodotCode
 
 -----------------------------
 
-Humble Tutorial: 
-[<img width="815" height="340" alt="image" src="https://github.com/user-attachments/assets/96a98016-b762-45cc-b98b-601a31c73194" />](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)
+[<img width="601" height="256" alt="image" src="https://github.com/user-attachments/assets/340f5a97-b92a-4221-b227-9f7f786bf11a" />
+](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)
 [🔗💲](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)([Access to](https://academy.zenva.com/course/godot-3d-platformer-course))  
 
 
