@@ -23,9 +23,8 @@ Discord Server: https://discord.com/invite/godotengine
 If you plan to learn Godot 2D, there is this big tutorial.
 (Be careful, they are trying to make you subscribe to their shit outside of pdf and video like humble should be... But the tutorials feel big)
 
-[<img width="601" height="256" alt="image" src="https://github.com/user-attachments/assets/340f5a97-b92a-4221-b227-9f7f786bf11a" />
-](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)
-[🔗💲](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)([Access to](https://academy.zenva.com/course/godot-3d-platformer-course))  
+[<img width="601" height="256" alt="image" src="https://github.com/user-attachments/assets/340f5a97-b92a-4221-b227-9f7f786bf11a" />](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)    
+[🔗💲](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)([Access to](https://academy.zenva.com/course/godot-3d-platformer-course))    
 
 
 
