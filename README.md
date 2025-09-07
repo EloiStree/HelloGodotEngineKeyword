@@ -12,6 +12,9 @@ https://github.com/EloiStree/HelloGodotCode
 
 -----------------------------
 
+If you plan to learn Godot 2D, there is this big tutorial.
+(Not be careful, they try to make you subscribe to their shit... But the tutorials feel big)
+
 [<img width="601" height="256" alt="image" src="https://github.com/user-attachments/assets/340f5a97-b92a-4221-b227-9f7f786bf11a" />
 ](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)
 [🔗💲](https://www.humblebundle.com/software/learn-godot-in-2025-complete-course-bundle-software)([Access to](https://academy.zenva.com/course/godot-3d-platformer-course))  
