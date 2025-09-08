@@ -8,7 +8,8 @@ Want to learn Godot? Same here 😁. Let’s put together a list of the main con
 Coding section is here:  
 https://github.com/EloiStree/HelloGodotCode  
 
-
+Code in Godot directly in Browser:  
+https://editor.godotengine.org/releases/4.4.1.stable/godot.editor.html  
 
 -----------------------------
 
