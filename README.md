@@ -15,6 +15,11 @@ https://editor.godotengine.org/releases/4.4.1.stable/godot.editor.html
 [<img width="1654" height="1096" alt="image" src="https://github.com/user-attachments/assets/b463212b-0692-4c7d-9e51-e8cd0bda338b" />](https://discord.gg/godotengine)  
 [https://discord.gg/godotengine](https://discord.gg/godotengine)    
 
+**There is also a learning section epic here** 
+[<img width="1156" height="772" alt="image" src="https://github.com/user-attachments/assets/827926c8-6c66-47ac-9b38-06420d018d8c" />](https://discord.gg/godotengine)  
+[https://discord.gg/godotengine](https://discord.gg/godotengine)      
+
+
 
 -----------------------------
 
