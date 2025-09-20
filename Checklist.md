@@ -12,7 +12,7 @@
 
 - [ ]  Tutorial of Godot
   - [ ]  https://docs.godotengine.org/en/stable/community/tutorials.html
-  - [ ] The fucking amound of advance good video here 🔥😅
+  - [ ] The fucking amount of advance good video here 🔥😅
     - https://www.youtube.com/@FinePointCGI/videos
   - [ ] Learn about GDScript
     - [ ] https://gdscript.com/tutorials
