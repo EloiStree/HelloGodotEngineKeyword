@@ -1,6 +1,6 @@
 
 
-- [ ] Install Godot https://github.com/EloiStree/HelloGodotEngineKeyword/issues/24
+- [ ] Learn to install Godot on several platform https://github.com/EloiStree/HelloGodotEngineKeyword/issues/24
 - [ ]  Watch and pratice the 3 Brackeys video (2D, GDscript, 3D) https://github.com/EloiStree/HelloGodotEngineKeyword/issues/2
 - [ ]  Pratice the basic of coding
   - [ ]  variable , function ...
