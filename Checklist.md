@@ -22,3 +22,10 @@
     - [ ]  https://gamedevartisan.com https://www.youtube.com/@GameDevArtisan
     - [ ]  GD https://gamedevartisan.com/tutorials/godot-fundamentals/gdscript-basics
     - [ ]  Scene and node https://gamedevartisan.com/tutorials/godot-fundamentals/scenes-nodes-scenetree-in-godot 
+
+- [ ] Did you join the Discord ?
+  - [ ] https://discord.com/invite/godotengine
+  - [ ] Check the section
+    - [ ] Quick Help 
+    - [ ] Learning Materils
+    - [ ] XR
