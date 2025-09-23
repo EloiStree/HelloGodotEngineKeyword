@@ -29,3 +29,12 @@
     - [ ] Quick Help 
     - [ ] Learning Materils
     - [ ] XR
+
+
+
+
+------------------
+
+- Video sur quoi regarder quand on debut, nice:
+  - [ ] https://youtu.be/__wH8Q_Gg6o?t=180
+  
