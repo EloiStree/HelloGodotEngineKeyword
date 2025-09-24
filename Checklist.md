@@ -38,3 +38,4 @@
 - Video sur quoi regarder quand on debut, nice:
   - [ ] https://youtu.be/__wH8Q_Gg6o?t=180
   
+- https://youtu.be/YVjT0OeE4P0?t=745
