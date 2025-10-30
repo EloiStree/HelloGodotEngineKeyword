@@ -5,6 +5,13 @@
 # Hello Godot Engine Keyword
 Want to learn Godot? Same here 😁. Let’s put together a list of the main concepts to focus on, as keywords (no coding).
 
+What is Godot in 100 seconds:
+https://youtu.be/QKgTZWbwD1U?t=48
+
+Don't lost time, start doing/praticing the 3 Brackeys video:   
+https://github.com/EloiStree/HelloGodotEngineKeyword/issues/2  
+
+
 Coding section is here:  
 https://github.com/EloiStree/HelloGodotCode  
 
