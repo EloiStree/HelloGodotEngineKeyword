@@ -11,6 +11,8 @@ What is Godot in 100 seconds:
 Don't lost time, start doing/praticing the 3 Brackeys video:       
 - [Make a 2D and 3D game](https://github.com/EloiStree/HelloGodotEngineKeyword/issues/2)      
 
+Explore a list of good Godot to learn:  
+https://youtu.be/__wH8Q_Gg6o?t=282  
 
 Coding section is here:  
 https://github.com/EloiStree/HelloGodotCode  
