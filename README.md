@@ -33,6 +33,8 @@ Example: https://forum.godotengine.org/t/is-there-such-thing-as-export-constants
 [https://discord.gg/godotengine](https://discord.gg/godotengine)      
 
 
+Learn by NES-able games:    
+[Godot](https://github.com/EloiStree/2026_03_12_godot_nes_learn_gdscript) , [C#](https://github.com/EloiStree/2026_03_12_godot_nes_learn_csharp) , [Rust](https://github.com/EloiStree/2026_03_12_godot_nes_learn_rust), [LUA](https://github.com/EloiStree/2026_03_12_godot_nes_learn_lua) , [Python](https://github.com/EloiStree/2026_03_12_godot_nes_learn_python)  
 
 -----------------------------
 
