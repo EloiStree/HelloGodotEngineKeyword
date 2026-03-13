@@ -246,12 +246,14 @@ https://youtu.be/NtxuV1WpRPc?t=1359 Utilisons Blend Mode > Alpha pour faire de l
 Node3D
 
 
+Check up:
 - [ ] Avoir un compte GMail ?
   - [ ] Avoir Google Auth sur votre telephone ?
   - [ ] Avoir une double authentification ?
   - [ ] Avoir ajouter votre compte Gmail a Google Auth
-  - [ ] 
 
+
+Step by step:
 - [ ] [🎥](https://youtu.be/NtxuV1WpRPc?t=3) Introduction
 - [ ] [🎥](https://youtu.be/NtxuV1WpRPc?t=102) On y va ;)
 - [ ] [🎥](https://youtu.be/NtxuV1WpRPc?t=120) Installer Grave et se connecter avec Gmail.
