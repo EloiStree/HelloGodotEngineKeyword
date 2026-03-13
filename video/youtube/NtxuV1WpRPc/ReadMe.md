@@ -39,8 +39,19 @@ extends Node, _ready, _process, func, pass vs return, void ,delfat:float
 print(), ""
 visual studio code, vs visual studio, vs JetBrain
 @export, var, nom_variable_membre: type_variable ,=, valeur_par_default,
-# , ## ,
-
+# , ## , RTFM, Godot Docs
+LM Studio , Hugging Face Copilote
+@export , inspector, level designer, integrateur
+CheatSheet,
+Oculus Setup, Meta Horizon Link App , Meta, Auth.methat.com
+Horizon... ,
+developers.meta.com, portal,
+Google Auth, QR Code, Cle de recuperation
+Organisation Meta,
+Quest, Standalone, PC Link App,
+Source Inconnue (meta),
+Air Link Mode, USB Linq Mode
+Cable usb C a 10$ vs 70$
 
 
 https://youtu.be/NtxuV1WpRPc?t=3849 CMD dans window path pour ouvrir le terminal la ou on est
@@ -68,6 +79,74 @@ https://youtu.be/NtxuV1WpRPc?t=4272 Ajoutons un compteur de frame pour le fun
 https://youtu.be/NtxuV1WpRPc?t=4277 @export var nom_variable_membre: type = valeur_par_default
 https://youtu.be/NtxuV1WpRPc?t=4315 Incrementer un variable avec += 1 
 https://youtu.be/NtxuV1WpRPc?t=4339 Commenter pour la documentation avec ##
+https://youtu.be/NtxuV1WpRPc?t=4390 Comment on fait pour faire tourner un Cube ?
+https://youtu.be/NtxuV1WpRPc?t=4395 D abord on demande a un moteur de recherche
+https://youtu.be/NtxuV1WpRPc?t=4402 On lit deux trois forums
+https://youtu.be/NtxuV1WpRPc?t=4429 RTFM, on va lire le manual et le doc
+https://youtu.be/NtxuV1WpRPc?t=4454 Godot Doc est tres bien entretenu par la communauter sur GitHub
+https://youtu.be/NtxuV1WpRPc?t=4486 Dans les AI il y a les hors ligne avec LM Studio et Hugging Face
+https://youtu.be/NtxuV1WpRPc?t=4521 Mais moi, j utilise Copilot payant sur VS Code par faciliter
+https://youtu.be/NtxuV1WpRPc?t=4578 Allons installer le module de Copilot
+https://youtu.be/NtxuV1WpRPc?t=4623 Demander de laide a copilot CTRL+i Help ou CTRL+SHIT+I pour le Chat
+https://youtu.be/NtxuV1WpRPc?t=4632 Ce loger avec votre compte GitHub
+https://youtu.be/NtxuV1WpRPc?t=4648 Avec copilot, vous pouvez choisir l AI utiliser par Microsoft pour vous aider.
+https://youtu.be/NtxuV1WpRPc?t=4675 Les AI dans visual studio utilise le context envionant
+https://youtu.be/NtxuV1WpRPc?t=4708 Ajoutons un @export pour le game designer dans l inspecteur
+https://youtu.be/NtxuV1WpRPc?t=4715 Les Ai sont tres bonne a documenter et vous aidez a comprendre
+https://youtu.be/NtxuV1WpRPc?t=4727 Copier coller du code sans comprendre.... Pas bien
+https://youtu.be/NtxuV1WpRPc?t=4759 Demander a l AI de vous faire des CheatSheet (brouillons de triche
+https://youtu.be/NtxuV1WpRPc?t=4790 On a vu git en console et en UI... Vous avez git directement dans VS Code ;)
+https://youtu.be/NtxuV1WpRPc?t=4856 Alors  c est bien Steam VR... Mais si vous avez un Quest. Il faut un peu voir ce que Meta propose
+https://youtu.be/NtxuV1WpRPc?t=4859 Telechargeons l Oculus Setup ici appelez Meta Horizon Link App
+https://youtu.be/NtxuV1WpRPc?t=4892 C est du next next avec un bon gros Giga a telecharger
+https://youtu.be/NtxuV1WpRPc?t=4900 Bon pour ce logger il vous faut un compte
+https://youtu.be/NtxuV1WpRPc?t=4909 La petite annecdote de Facebook qui se renomme Meta...
+https://youtu.be/NtxuV1WpRPc?t=4960 Creeons un compte ensemble pour devenir developper
+https://youtu.be/NtxuV1WpRPc?t=5022 Confirmer votre mail via le code envoyer
+https://youtu.be/NtxuV1WpRPc?t=5060 Meta essie de vous forcer a utiliser Horizon...
+https://youtu.be/NtxuV1WpRPc?t=5087 Toujours authorizer le navigateur a communiquer avec l application meta
+https://youtu.be/NtxuV1WpRPc?t=5098 Ajouter un pin d administrateur pour votre casque et les future achats possible
+https://youtu.be/NtxuV1WpRPc?t=5121 On a un compte allons le passer en developpeur sur developers portal
+https://youtu.be/NtxuV1WpRPc?t=5131 Ajouter un double authentification sur votre compte develper est obligatoire
+https://youtu.be/NtxuV1WpRPc?t=5171 Ils vous faut donc telecharger Google Auth et ajouter le QR Code pour la cle de validation
+https://youtu.be/NtxuV1WpRPc?t=5259 Maitnenant, il vous faut creer un organisation (team)
+https://youtu.be/NtxuV1WpRPc?t=5291 Creeons une application Quest et une application PC VR
+https://youtu.be/NtxuV1WpRPc?t=5313 Et vous voila en possition du dashboard de developer sur Meta Store
+https://youtu.be/NtxuV1WpRPc?t=5360 Retournons dans logiciel Meta et acceptions les sources inconnue
+https://youtu.be/NtxuV1WpRPc?t=5363 Et changons le Open XR par default a Meta Linq
+https://youtu.be/NtxuV1WpRPc?t=5396 Petit particulariter, il a vallu aller metre le case en air link pour l ajouter
+https://youtu.be/NtxuV1WpRPc?t=5404 Pairons le Air Link a notre ordinateur
+https://youtu.be/NtxuV1WpRPc?t=5420 Testons notre connection par Cable 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
