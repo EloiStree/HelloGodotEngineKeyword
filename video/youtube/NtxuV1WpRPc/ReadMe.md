@@ -79,8 +79,23 @@ SketchFab, Vertex, Triangle, Low Poly, Hight Poly
 Texture 1k 4k | 8K 16K?
 3D Pivot
 AudioListener2D  AudioStreamPlayer3D
-
-
+.wav .mp4 .ogg
+BlockBench Ink, Gimp
+OBS: Window Capture ADB
+Cubisme, Laser Dance
+VRTK, MRTK, XRTK, Godot TK
+Icosphere, 
+Cross Cube UV vs 8 Face UV vs 1 face UV
+?Mixamo?
+Sphere Parfait avec Blender
+Export Template
+Exercice: Faire et peindre un dee de D7D
+Fausse luniere, Unshaded
+Build folder, ?Old Build Disk?
+Import ETC2 ASTC Texture
+Java JDK, SDK, Oracle, OpenJDK
+Android Studio, Android SDK
+OpenJDK17
 
 https://youtu.be/NtxuV1WpRPc?t=6848 Placons la UV Grid
 https://youtu.be/NtxuV1WpRPc?t=6865 Commens on utiliser la UV Grid ?
@@ -91,7 +106,57 @@ https://youtu.be/NtxuV1WpRPc?t=7056 Sourcer votre telechargment
 https://youtu.be/NtxuV1WpRPc?t=7068 Verifier la license
 https://youtu.be/NtxuV1WpRPc?t=7129 Un pivot mal placer... 
 https://youtu.be/NtxuV1WpRPc?t=7172 L import GLB de godot est manifiquement automatiser
-https://youtu.be/NtxuV1WpRPc?t=7179 Ajoutons la capaciter d entendre du son dans notre jeux AudioListener2D
+https://youtu.be/NtxuV1WpRPc?t=7179 Ajoutons un emetteur de son dans notre radio 3D
+https://youtu.be/NtxuV1WpRPc?t=7251 Ils nous faudrait donc un son. Allons chercher Audacity
+https://youtu.be/NtxuV1WpRPc?t=7270 Sans MuseHub
+https://youtu.be/NtxuV1WpRPc?t=7303 Allons telecharger un bruitage ou une musique
+https://youtu.be/NtxuV1WpRPc?t=7357 Retirons le blanc au debut du son
+https://youtu.be/NtxuV1WpRPc?t=7364 Creeons un FadeOut sur la fin du son 
+https://youtu.be/NtxuV1WpRPc?t=7409 Exportons en ogg
+https://youtu.be/NtxuV1WpRPc?t=7433 Ajouter sur AudioStreamer la music et ajoutons un auto play.
+https://youtu.be/NtxuV1WpRPc?t=7458 Pour entre le son, il nous faut un ecouteur sur le camera AudioListener3D
+https://youtu.be/NtxuV1WpRPc?t=7461 Attention, il vous faut celui de godot XR Tool pour un audio spacialiser
+https://youtu.be/NtxuV1WpRPc?t=7532 D autres logiciels Open source ?  BlockBench Grimp Ink 
+https://youtu.be/NtxuV1WpRPc?t=7586 Pour votre culture generale et la fin des gamejams, regardons a OBS
+https://youtu.be/NtxuV1WpRPc?t=7626 Lancons l install  
+https://youtu.be/NtxuV1WpRPc?t=7644 Allons retrouver notre dossier scrcpy installer plus tot.
+https://youtu.be/NtxuV1WpRPc?t=7708 Capturer une fenetre a enregistrer dans OBS
+https://youtu.be/NtxuV1WpRPc?t=7814 Cubisme et Laser Dance ;)
+https://youtu.be/NtxuV1WpRPc?t=7864 Essayons d exporter notre projet pour le passer a un ami
+https://youtu.be/NtxuV1WpRPc?t=7901 Ajoutons Window et constatons qu il nous manque quelque chose.
+https://youtu.be/NtxuV1WpRPc?t=7903 Telechargons et installons Export Template
+https://youtu.be/NtxuV1WpRPc?t=7955 Bon avant d exporter... Ajoutons un petit icosphere pour le plaisir d apprendre a utiliser blender
+https://youtu.be/NtxuV1WpRPc?t=7971 Exportons un cube avec son UV en croix pour voir
+https://youtu.be/NtxuV1WpRPc?t=8026 Creons une icosphere pour voir le prince des forme de blender
+https://youtu.be/NtxuV1WpRPc?t=8081 Ajoutons notre cube a la scene avec une instance classique 
+https://youtu.be/NtxuV1WpRPc?t=8111 Ajoutons lui ca texture
+https://youtu.be/NtxuV1WpRPc?t=8131 Ajoutons notre icosphere en soleil du jeu
+https://youtu.be/NtxuV1WpRPc?t=8148 D abord fictivement avec unshaded
+https://youtu.be/NtxuV1WpRPc?t=8172 Remplacons le directional light par un OmniLight3D dans notre soleil
+https://youtu.be/NtxuV1WpRPc?t=8237 Allons exporter notre projet pour de vrai
+https://youtu.be/NtxuV1WpRPc?t=8244 Creaons un build folder.
+https://youtu.be/NtxuV1WpRPc?t=8291 Tadaaam on a un exe godot XR 😎
+https://youtu.be/NtxuV1WpRPc?t=8369 Essayons de l exporter pour Android XR...
+https://youtu.be/NtxuV1WpRPc?t=8376 Une option de texture a cocher ETC2
+https://youtu.be/NtxuV1WpRPc?t=8389 Petit probleme, un app android c est du java.
+https://youtu.be/NtxuV1WpRPc?t=8393 Telechargons donc un JDK Java developer Kit et SDK (Oracle)
+https://youtu.be/NtxuV1WpRPc?t=8507 On sait parler Java ;) Apprenons a parler Android
+https://youtu.be/NtxuV1WpRPc?t=8518 telechargons Android Studio
+https://youtu.be/NtxuV1WpRPc?t=8548 En lisant la doc... IL y a un autre version de java disponible OpenJDK17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
