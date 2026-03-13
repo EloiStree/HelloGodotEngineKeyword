@@ -33,6 +33,28 @@ extension de fichier, fichier cacher, .git/
 .gitignore, *.cfg, gitignore.io
 stage, unstage, add, commit 
 25,50,100Mo WinDirStat, MB, Mb et MO, Bytes
+stage, fetch, pull, push
+cmd, folder path, status, add . , commit -m , pull push
+
+
+
+
+
+https://youtu.be/NtxuV1WpRPc?t=3849 CMD dans window path pour ouvrir le terminal la ou on est
+https://youtu.be/NtxuV1WpRPc?t=3861 Utilisons Git Status pour voir ou on en est dans la sauvegarde du projet
+https://youtu.be/NtxuV1WpRPc?t=3869 Ajoutons a la sauvegarde les fichiers avec git add .
+https://youtu.be/NtxuV1WpRPc?t=3874 Verifions que ca a marcher avec git status
+https://youtu.be/NtxuV1WpRPc?t=3878 Git Commit -m pour sauver avec un commentaitre
+https://youtu.be/NtxuV1WpRPc?t=3899 Mettons nous a jour au cas ou avec un git pull
+https://youtu.be/NtxuV1WpRPc?t=3902 On est a jour un petit git push pour sauver notre avancement en ligne
+
+
+
+
+
+
+
+
 
 https://youtu.be/NtxuV1WpRPc?t=1359 Utilisons Blend Mode > Alpha pour faire de la realiter augmenter plus tard.
 
@@ -243,6 +265,17 @@ https://youtu.be/NtxuV1WpRPc?t=3569 Bon bah on est bon pour cette fois-ci... For
 https://youtu.be/NtxuV1WpRPc?t=3580 Un gros fichier local, sauvable... en ligne.. Aie
 https://youtu.be/NtxuV1WpRPc?t=3605 Allons pousser notre repertoire en ligne ;)
 https://youtu.be/NtxuV1WpRPc?t=3654 Et... C est en ligne et sauvegarder.
+https://youtu.be/NtxuV1WpRPc?t=3682 GitHub permet d editer en ligne. Par example des cours
+https://youtu.be/NtxuV1WpRPc?t=3733 Allons voir dans Fork la signification du mot Fetch de git
+https://youtu.be/NtxuV1WpRPc?t=3767 Mettons nous a jour sur le projet avec un pull
+https://youtu.be/NtxuV1WpRPc?t=3791 Habituions nous a fork en sauvant un modifiaction de fichier.
+https://youtu.be/NtxuV1WpRPc?t=3800 Ajoutons (stage) le changement la prochaine sauvegarde
+https://youtu.be/NtxuV1WpRPc?t=3806 Commentons la sauvegarde local avec un commit
+https://youtu.be/NtxuV1WpRPc?t=3815 Un petit pull pour prendre l habitude de se mettre a jour
+https://youtu.be/NtxuV1WpRPc?t=3821 Un petit push pour envoyer la sauvegarde local en ligne
+https://youtu.be/NtxuV1WpRPc?t=3840 Ok, GithDesktop et Fork c est chouette mais en ligne de commande ?
+
+
 
 JE SUIS ICI.
 
