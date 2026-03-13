@@ -6,157 +6,156 @@ Selling point of this tutorial:
 https://youtu.be/NtxuV1WpRPc?t=10235
 
 Vocabulaire:
-Steam, SteamVR, ALVR, Godot, Meta Software, Git , Meta Account, Steam Linq, Meta Store, scrcpy, adb, mode developer
-Meta Quest Develoer Hub, User Account Control Setting, Git, Vim, Nodepad, Version Control, .py , python, 
-,language interpreter, language compiler ,`scrcpy.exe` ,`adb.exe`, PATH , .bat, android webcam,
-webcam gauch et droit du quest, pairing steam, Steam Home, purgatoire steam, Alyx, window .bat shortcut,
-Open XR, yyyy_mm_dd, nomenclature, Forward+/Mobile, .tscn XROrigine3D,  XRNode3D, XRCamera3D
+Steam, SteamVR, ALVR, Godot, Meta Software, Git , Meta Account, Steam Linq, Meta Store, scrcpy, adb, mode developer  
+Meta Quest Develoer Hub, User Account Control Setting, Git, Vim, Nodepad, Version Control, .py , python,   
+,language interpreter, language compiler ,`scrcpy.exe` ,`adb.exe`, PATH , .bat, android webcam,   
+webcam gauch et droit du quest, pairing steam, Steam Home, purgatoire steam, Alyx, window .bat shortcut,  
+Open XR, yyyy_mm_dd, nomenclature, Forward+/Mobile, .tscn XROrigine3D,  XRNode3D, XRCamera3D   
 
-Local Floor, Stage, Bend mode Alpha, VR v AR, Hand Tracking, Rendering Environment Color, RGB, RGBA 
-MeshInstance3D, Cube, Mesh,
-DirectionLight3D ,📕RTFM, XRServer.find_interface, .gd , Node vs Node3D , _ready(), func 
-XRController3D, XRNode3D > Tracker,
-StandardMaterial3D, Albedo > Color, Shader Mode, per-pixel, unshaded 
+Local Floor, Stage, Bend mode Alpha, VR v AR, Hand Tracking, Rendering Environment Color, RGB, RGBA   
+MeshInstance3D, Cube, Mesh,  
+DirectionLight3D ,📕RTFM, XRServer.find_interface, .gd , Node vs Node3D , _ready(), func   
+XRController3D, XRNode3D > Tracker,  
+StandardMaterial3D, Albedo > Color, Shader Mode, per-pixel, unshaded   
 
-Godot Xr Tools, AssetLib, Addons, Plugin, shader, VRCommonShaderCache,
-VR Sickness , bouger, tourner, teleporter , Pick, Highlight, Hand position, Snap board
-Itchio, APK, .exe ,  Drag and drop , console, terminal, adb install
-Unkown source, Menu Developper App,
-ALVR, BitRate, Compression d image, Wifi Stream
-Virtual Desktop, Streamer App, Meta User Name, 
-Pico vs Dream vs Google vs Viveport vs Android XR
-Start With Window, shell:startup, OpenXR Runtime Selection,
-Adb screenshot, 
-SourceTree , Fork, GitHub Desktop , 
-git config, user.name, user.email , git blame, -- global
-git init, repertoire
-git description, readme.md, .md , .gitignore
-public vs private
-extension de fichier, fichier cacher, .git/
-.gitignore, *.cfg, gitignore.io
-stage, unstage, add, commit 
-25,50,100Mo WinDirStat, MB, Mb et MO, Bytes
-stage, fetch, pull, push
-cmd, folder path, status, add . , commit -m , pull push
-extends Node, _ready, _process, func, pass vs return, void ,delfat:float
-print(), ""
-visual studio code, vs visual studio, vs JetBrain
-@export, var, nom_variable_membre: type_variable ,=, valeur_par_default,
-# , ## , RTFM, Godot Docs
-LM Studio , Hugging Face Copilote
-@export , inspector, level designer, integrateur
-CheatSheet,
-Oculus Setup, Meta Horizon Link App , Meta, Auth.methat.com
-Horizon... ,
-developers.meta.com, portal,
-Google Auth, QR Code, Cle de recuperation
-Organisation Meta,
-Quest, Standalone, PC Link App,
-Source Inconnue (meta),
-Air Link Mode, USB Linq Mode
-Cable usb C a 10$ vs 70$
-Block, Open Brush, Gravity Sketch, VR Painting
-Four Hourseman of the open source ; Krita, Blender, Audacity, Godot, OBS
-Remove Background et opera GX
-.jpg . png .krita
-Sprite3D
-Scene, Nested Scene, Prefab, Nested Prefab
-.tscn
-Suzanne
-Vertex Color, Vertex Painting, Shader, Degrader de couleur
-.glb, .fbx , .obj ?.openusb?, uv map
-File System > instanciate ( android)
-Transform Scale / Rotate / Position
-Rotation: Direction, Euler, Quaternion , 
-Position: Unity Axis vs Godot Axis
-CTRL + D Duplicate
-Editable Children ( voir prefab variante sur Unity)
-Make Local
- Blender Edit Mode Object Mode
-Blender > UV > Export UV Layout
-UV Grids
-Credit , Source 
-
-SketchFab, Vertex, Triangle, Low Poly, Hight Poly
-96 triangles, 4k 10k 50k 65k | 200k 2M...
-Texture 1k 4k | 8K 16K?
-3D Pivot
-AudioListener2D  AudioStreamPlayer3D
-.wav .mp4 .ogg
-BlockBench Ink, Gimp
-OBS: Window Capture ADB
-Cubisme, Laser Dance
-VRTK, MRTK, XRTK, Godot TK
-Icosphere, 
-Cross Cube UV vs 8 Face UV vs 1 face UV
-?Mixamo?
-Sphere Parfait avec Blender
-Export Template
-Exercice: Faire et peindre un dee de D7D
-Fausse luniere, Unshaded
-Build folder, ?Old Build Disk?
-Import ETC2 ASTC Texture
-Java JDK, SDK, Oracle, OpenJDK
-Android Studio, Android SDK
-OpenJDK17 
-ASMenu :SDK Manager
-Google USB Driver
-Google Web Driver
-Java SDK Path
-Android SDK Path
-20% Fun vs 80% Bloquer
-Syndrome de l imposteur
-arm64 vs x86 et x86_64
-android package name
-XR Mode Regular?
-Webcam permission
-Internet permission
-read/write ,external storage, permission
-Request, HTTP, HTTPS, UDP, Websocket
-Wifi USB Debugging ( voir adb )
-adb devices
-adb -s
-
+Godot Xr Tools, AssetLib, Addons, Plugin, shader, VRCommonShaderCache,  
+VR Sickness , bouger, tourner, teleporter , Pick, Highlight, Hand position, Snap board  
+Itchio, APK, .exe ,  Drag and drop , console, terminal, adb install  
+Unkown source, Menu Developper App,  
+ALVR, BitRate, Compression d image, Wifi Stream  
+Virtual Desktop, Streamer App, Meta User Name,   
+Pico vs Dream vs Google vs Viveport vs Android XR   
+Start With Window, shell:startup, OpenXR Runtime Selection,  
+Adb screenshot,   
+SourceTree , Fork, GitHub Desktop ,   
+git config, user.name, user.email , git blame, -- global  
+git init, repertoire  
+git description, readme.md, .md , .gitignore  
+public vs private  
+extension de fichier, fichier cacher, .git/  
+.gitignore, *.cfg, gitignore.io  
+stage, unstage, add, commit   
+25,50,100Mo WinDirStat, MB, Mb et MO, Bytes   
+stage, fetch, pull, push  
+cmd, folder path, status, add . , commit -m , pull push  
+extends Node, _ready, _process, func, pass vs return, void ,delfat:float  
+print(), ""    
+visual studio code, vs visual studio, vs JetBrain  
+@export, var, nom_variable_membre: type_variable ,=, valeur_par_default,   
+`#` , `##` , RTFM, Godot Docs    
+LM Studio , Hugging Face Copilote      
+@export , inspector, level designer, integrateur  
+CheatSheet,   
+Oculus Setup, Meta Horizon Link App , Meta, Auth.methat.com  
+Horizon... ,  
+developers.meta.com, portal,  
+Google Auth, QR Code, Cle de recuperation  
+Organisation Meta,  
+Quest, Standalone, PC Link App,  
+Source Inconnue (meta),  
+Air Link Mode, USB Linq Mode   
+Cable usb C a 10$ vs 70$  
+Block, Open Brush, Gravity Sketch, VR Painting  
+Four Hourseman of the open source ; Krita, Blender, Audacity, Godot, OBS  
+Remove Background et opera GX  
+.jpg . png .krita  
+Sprite3D  
+Scene, Nested Scene, Prefab, Nested Prefab    
+.tscn   
+Suzanne  
+Vertex Color, Vertex Painting, Shader, Degrader de couleur  
+.glb, .fbx , .obj ?.openusb?, uv map   
+File System > instanciate ( android)  
+Transform Scale / Rotate / Position  
+Rotation: Direction, Euler, Quaternion ,   
+Position: Unity Axis vs Godot Axis  
+CTRL + D Duplicate  
+Editable Children ( voir prefab variante sur Unity)  
+Make Local  
+ Blender Edit Mode Object Mode  
+Blender > UV > Export UV Layout   
+UV Grids   
+Credit , Source   
+  
+SketchFab, Vertex, Triangle, Low Poly, Hight Poly  
+96 triangles, 4k 10k 50k 65k | 200k 2M...  
+Texture 1k 4k | 8K 16K?  
+3D Pivot  
+AudioListener2D  AudioStreamPlayer3D  
+.wav .mp4 .ogg  
+BlockBench Ink, Gimp  
+OBS: Window Capture ADB  
+Cubisme, Laser Dance  
+VRTK, MRTK, XRTK, Godot TK    
+Icosphere,      
+Cross Cube UV vs 8 Face UV vs 1 face UV  
+?Mixamo?  
+Sphere Parfait avec Blender  
+Export Template  
+Exercice: Faire et peindre un dee de D7D  
+Fausse luniere, Unshaded  
+Build folder, ?Old Build Disk?  
+Import ETC2 ASTC Texture  
+Java JDK, SDK, Oracle, OpenJDK  
+Android Studio, Android SDK  
+OpenJDK17   
+ASMenu :SDK Manager   
+Google USB Driver   
+Google Web Driver  
+Java SDK Path  
+Android SDK Path  
+20% Fun vs 80% Bloquer   
+Syndrome de l imposteur   
+arm64 vs x86 et x86_64  
+android package name    
+XR Mode Regular?     
+Webcam permission    
+Internet permission    
+read/write ,external storage, permission   
+Request, HTTP, HTTPS, UDP, Websocket  
+Wifi USB Debugging ( voir adb )   
+adb devices     
+adb -s  
+  
 
 
 Rappel:
-LinkedIn, GitHub, Google, Google Auth, Protfolio, Itch.io account, Meta Account,
-GitHub Main Page, GitHub Page, Gravity Sketch , ShareXR*
-WinDirStat et git LFS
-android/
-/[Bb]uild/
-Meta Developer Hub: ADB over Wi-fi
-Meta Developer Hub: Cast Device
+LinkedIn, GitHub, Google, Google Auth, Protfolio, Itch.io account, Meta Account,    
+GitHub Main Page, GitHub Page, Gravity Sketch , ShareXR*  
+WinDirStat et git LFS   
+android/   
+/[Bb]uild/   
+Meta Developer Hub: ADB over Wi-fi    
+Meta Developer Hub: Cast Device   
 
-EloiTeaching
-EloiStree Raw
+EloiTeaching  
+EloiStree Raw  
 
-Termux,Termuc, FDroid
+Termux,Termuc, FDroid   
+  
+SideQuest PC, SideQuest Android  
+~ , ~/storage/shared/document ,~/storage/shared/  
+rm -r path/    
+git clone    
+cd ..  , cd + tab  
+zoomer dans termux     
+copy past in termux  
+ 
+create project , import project, edit project   
+recenter scene,   
+blocks color panel  
 
-SideQuest PC, SideQuest Android
-~ , ~/storage/shared/document ,~/storage/shared/
-rm -r path/ 
-git clone 
-cd ..  , cd + tab
-zoomer dans termux
-copy past in termux
+rappel: status add commit pull push branch checkout switch   
+  
+Fossify File Manager  
+?.tmaterial?  
 
-create project , import project, edit project
-recenter scene,
-blocks color panel
-
-rappel: status add commit pull push branch checkout switch
-
-Fossify File Manager
-?.tmaterial?
-
-
-Challenger: faire passer les mains par devant les objest 3D en godot
-Savoir:
-- Detecter un scene recentrer
-- Detecter quand le joueur est dans les menu Quest
-
-
+   
+Challenger: faire passer les mains par devant les objest 3D en godot  
+Savoir:  
+- Detecter un scene recentrer  
+- Detecter quand le joueur est dans les menu Quest  
+  
 
 
 
