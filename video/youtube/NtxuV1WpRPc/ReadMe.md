@@ -35,8 +35,11 @@ stage, unstage, add, commit
 25,50,100Mo WinDirStat, MB, Mb et MO, Bytes
 stage, fetch, pull, push
 cmd, folder path, status, add . , commit -m , pull push
-
-
+extends Node, _ready, _process, func, pass vs return, void ,delfat:float
+print(), ""
+visual studio code, vs visual studio, vs JetBrain
+@export, var, nom_variable_membre: type_variable ,=, valeur_par_default,
+# , ## ,
 
 
 
@@ -47,6 +50,35 @@ https://youtu.be/NtxuV1WpRPc?t=3874 Verifions que ca a marcher avec git status
 https://youtu.be/NtxuV1WpRPc?t=3878 Git Commit -m pour sauver avec un commentaitre
 https://youtu.be/NtxuV1WpRPc?t=3899 Mettons nous a jour au cas ou avec un git pull
 https://youtu.be/NtxuV1WpRPc?t=3902 On est a jour un petit git push pour sauver notre avancement en ligne
+https://youtu.be/NtxuV1WpRPc?t=3950 Creation un `_Project` ou simplement `_` pour rassembler nos affaire
+https://youtu.be/NtxuV1WpRPc?t=3952 Creeons des dossiers: script, scene, assets ...
+https://youtu.be/NtxuV1WpRPc?t=3968 Creeons un petit hello world
+https://youtu.be/NtxuV1WpRPc?t=3990 C est quoi extends Node et _ready ?
+https://youtu.be/NtxuV1WpRPc?t=4000 Le premier Hello World de la video avec print()
+https://youtu.be/NtxuV1WpRPc?t=4009 Creeons un Node vide pour "heberger" les script
+https://youtu.be/NtxuV1WpRPc?t=4039 L editeur de Godot est bien. Mais vous pouvez en utiliser d autres
+https://youtu.be/NtxuV1WpRPc?t=4059 telercharons Visual Studio Code 
+https://youtu.be/NtxuV1WpRPc?t=4078 Vous pouvez aller voir pour JetBrains si vous voulez.
+https://youtu.be/NtxuV1WpRPc?t=4108 VS est un outils tres puissant, leger et surtout modulaire.
+https://youtu.be/NtxuV1WpRPc?t=4141 Ouvrons votre projet
+https://youtu.be/NtxuV1WpRPc?t=4164 Ajoutons un module pour Godot dans VS Code
+https://youtu.be/NtxuV1WpRPc?t=4204 Donnons a VS Code le chemain de l executabe Godot pour qu il communique
+https://youtu.be/NtxuV1WpRPc?t=4257 Tadaaam on a un jolie code de couleur
+https://youtu.be/NtxuV1WpRPc?t=4272 Ajoutons un compteur de frame pour le fun 
+https://youtu.be/NtxuV1WpRPc?t=4277 @export var nom_variable_membre: type = valeur_par_default
+https://youtu.be/NtxuV1WpRPc?t=4315 Incrementer un variable avec += 1 
+https://youtu.be/NtxuV1WpRPc?t=4339 Commenter pour la documentation avec ##
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
