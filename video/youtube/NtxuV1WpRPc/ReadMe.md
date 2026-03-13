@@ -95,7 +95,24 @@ Build folder, ?Old Build Disk?
 Import ETC2 ASTC Texture
 Java JDK, SDK, Oracle, OpenJDK
 Android Studio, Android SDK
-OpenJDK17
+OpenJDK17 
+ASMenu :SDK Manager
+Google USB Driver
+Google Web Driver
+Java SDK Path
+Android SDK Path
+20% Fun vs 80% Bloquer
+Syndrome de l imposteur
+arm64 vs x86 et x86_64
+android package name
+XR Mode Regular?
+Webcam permission
+Internet permission
+read/write ,external storage, permission
+Request, HTTP, HTTPS, UDP, Websocket
+Wifi USB Debugging ( voir adb )
+adb devices
+adb -s
 
 https://youtu.be/NtxuV1WpRPc?t=6848 Placons la UV Grid
 https://youtu.be/NtxuV1WpRPc?t=6865 Commens on utiliser la UV Grid ?
@@ -143,6 +160,27 @@ https://youtu.be/NtxuV1WpRPc?t=8393 Telechargons donc un JDK Java developer Kit 
 https://youtu.be/NtxuV1WpRPc?t=8507 On sait parler Java ;) Apprenons a parler Android
 https://youtu.be/NtxuV1WpRPc?t=8518 telechargons Android Studio
 https://youtu.be/NtxuV1WpRPc?t=8548 En lisant la doc... IL y a un autre version de java disponible OpenJDK17
+https://youtu.be/NtxuV1WpRPc?t=8618 Pour android studio on a pas besoin de l emulateur 
+https://youtu.be/NtxuV1WpRPc?t=8665 Android Studio est installer allons dire bonjour au SDK Manager
+https://youtu.be/NtxuV1WpRPc?t=8691 Ajoutons un Google USB driver tant que lon est la.
+https://youtu.be/NtxuV1WpRPc?t=8739 Allons dire a Godot ou se trouve notre JDK et Android SDK
+https://youtu.be/NtxuV1WpRPc?t=8814 Developer: C est juste savoir lire de la documentation et appliquer.
+https://youtu.be/NtxuV1WpRPc?t=8849 Le Quest il est en arm64 bit 
+https://youtu.be/NtxuV1WpRPc?t=8865 changons le nom unique de notre application android
+https://youtu.be/NtxuV1WpRPc?t=8873 pays.company.application
+https://youtu.be/NtxuV1WpRPc?t=8909 On veut du OpenXR ou du XR du constructeur ?
+https://youtu.be/NtxuV1WpRPc?t=8951 Ajoutons deux trois permissions que j utilise souvent
+https://youtu.be/NtxuV1WpRPc?t=8974 On veut la camera (webcam)
+https://youtu.be/NtxuV1WpRPc?t=8980 Internet pour de request, UDP et Websocket
+https://youtu.be/NtxuV1WpRPc?t=8993 Read external storage pour aller chercher des fichiers
+https://youtu.be/NtxuV1WpRPc?t=9001 Write external storage pour generer des fichiers pour le joueur
+https://youtu.be/NtxuV1WpRPc?t=9037 On a une jolie APK pour installer
+https://youtu.be/NtxuV1WpRPc?t=9049 Alors dans la theory on est bon... dans la pratique il me manque une connaissance.
+https://youtu.be/NtxuV1WpRPc?t=9073 Comme je n avais plus de batterie. Allons voir comment utiliser ADB par le Wifi
+https://youtu.be/NtxuV1WpRPc?t=9131 allons voir le resulta avec adb devices
+
+
+
 
 
 
