@@ -117,6 +117,8 @@ https://youtu.be/NtxuV1WpRPc?t=5363 Et changons le Open XR par default a Meta Li
 https://youtu.be/NtxuV1WpRPc?t=5396 Petit particulariter, il a vallu aller metre le case en air link pour l ajouter
 https://youtu.be/NtxuV1WpRPc?t=5404 Pairons le Air Link a notre ordinateur
 https://youtu.be/NtxuV1WpRPc?t=5420 Testons notre connection par Cable 
+https://youtu.be/NtxuV1WpRPc?t=5446 Oublier pas de lancer Quest Linq... Et de brancher le cable 😋
+
 
 
 
