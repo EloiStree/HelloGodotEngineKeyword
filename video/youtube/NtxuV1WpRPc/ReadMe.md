@@ -51,6 +51,8 @@ https://youtu.be/NtxuV1WpRPc?t=3902 On est a jour un petit git push pour sauver 
 
 
 
+JE SUIS ICI.
+
 
 
 
@@ -276,8 +278,6 @@ https://youtu.be/NtxuV1WpRPc?t=3821 Un petit push pour envoyer la sauvegarde loc
 https://youtu.be/NtxuV1WpRPc?t=3840 Ok, GithDesktop et Fork c est chouette mais en ligne de commande ?
 
 
-
-JE SUIS ICI.
 
 
 
