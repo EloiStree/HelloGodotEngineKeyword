@@ -2,6 +2,9 @@ Comment créer un projet Godot sur SteamVR et Quest 3 avec GitHub
 https://youtu.be/NtxuV1WpRPc
 
 
+Selling point of this tutorial:
+https://youtu.be/NtxuV1WpRPc?t=10235
+
 Vocabulaire:
 Steam, SteamVR, ALVR, Godot, Meta Software, Git , Meta Account, Steam Linq, Meta Store, scrcpy, adb, mode developer
 Meta Quest Develoer Hub, User Account Control Setting, Git, Vim, Nodepad, Version Control, .py , python, 
@@ -118,10 +121,40 @@ adb -s
 
 Rappel:
 LinkedIn, GitHub, Google, Google Auth, Protfolio, Itch.io account, Meta Account,
-GitHub Main Page, GitHub Page
+GitHub Main Page, GitHub Page, Gravity Sketch , ShareXR*
 WinDirStat et git LFS
 android/
 /[Bb]uild/
+Meta Developer Hub: ADB over Wi-fi
+Meta Developer Hub: Cast Device
+
+EloiTeaching
+EloiStree Raw
+
+Termux,Termuc, FDroid
+
+SideQuest PC, SideQuest Android
+~ , ~/storage/shared/document ,~/storage/shared/
+rm -r path/ 
+git clone 
+cd ..  , cd + tab
+zoomer dans termux
+copy past in termux
+
+create project , import project, edit project
+recenter scene,
+blocks color panel
+
+rappel: status add commit pull push branch checkout switch
+
+Fossify File Manager
+?.tmaterial?
+
+
+Challenger: faire passer les mains par devant les objest 3D en godot
+Savoir:
+- Detecter un scene recentrer
+- Detecter quand le joueur est dans les menu Quest
 
 
 
@@ -131,11 +164,9 @@ android/
 
 
 
-https://youtu.be/NtxuV1WpRPc?t=9218 Bon, Sauvons un coup notre projet avec GitHub Desktop 😋 Avant d aller plus profond 😅
-https://youtu.be/NtxuV1WpRPc?t=9226 ET BOUM, FORSHADOWIN... J ai des gros fichier dans mon commit
-https://youtu.be/NtxuV1WpRPc?t=9272 D ailleurs j avais mal fait mon git ignore avec /Android/ present dans le projet
-https://youtu.be/NtxuV1WpRPc?t=9345 On push sans nos gros fichier ;)
-https://youtu.be/NtxuV1WpRPc?t=9381 VOUS N EST PAS PRET 🗡️🔪... allons travailler dans le casque directement
+
+
+
 
 
 
@@ -611,13 +642,55 @@ https://youtu.be/NtxuV1WpRPc?t=9131 allons voir le resulta avec adb devices
 
 
 
+https://youtu.be/NtxuV1WpRPc?t=9218 Bon, Sauvons un coup notre projet avec GitHub Desktop 😋 Avant d aller plus profond 😅
+https://youtu.be/NtxuV1WpRPc?t=9226 ET BOUM, FORSHADOWIN... J ai des gros fichier dans mon commit
+https://youtu.be/NtxuV1WpRPc?t=9272 D ailleurs j avais mal fait mon git ignore avec /Android/ present dans le projet
+https://youtu.be/NtxuV1WpRPc?t=9345 On push sans nos gros fichier ;)
+https://youtu.be/NtxuV1WpRPc?t=9381 VOUS N EST PAS PRET 🗡️🔪... allons travailler dans le casque directement
 
-
-
-
-
-
-
+https://youtu.be/NtxuV1WpRPc?t=9403 J ai changer de PC, allons voir Meta Developer Hub
+https://youtu.be/NtxuV1WpRPc?t=9438 Allons utiliser ADB over Wi-fi
+https://youtu.be/NtxuV1WpRPc?t=9463 Castons le casque ;)
+https://youtu.be/NtxuV1WpRPc?t=9511 Travaillons en XR 😎
+https://youtu.be/NtxuV1WpRPc?t=9548 Lancons Termux (Installation dans une autre video)
+https://youtu.be/NtxuV1WpRPc?t=9563 Allez sur EloiTeaching pour trouver les video d installation de Termux
+https://youtu.be/NtxuV1WpRPc?t=9619 Allons dans documents 
+https://youtu.be/NtxuV1WpRPc?t=9685 Clonons le project sur le casque dans document
+https://youtu.be/NtxuV1WpRPc?t=9721 un petit cd pour rentrer dans le projet et status pour check
+https://youtu.be/NtxuV1WpRPc?t=9761 Installer Godot depuis le store puis importons le projet
+https://youtu.be/NtxuV1WpRPc?t=9796 Tadaam, notre projet dans le casque
+https://youtu.be/NtxuV1WpRPc?t=9857 Pincher rapidement pour sortir du jeu
+https://youtu.be/NtxuV1WpRPc?t=9863 Laisser enfoncer pour recentrer la scene
+https://youtu.be/NtxuV1WpRPc?t=9901 Travaillez en live entre l editeur et le jeu 😃😍
+https://youtu.be/NtxuV1WpRPc?t=9950 Comment on sauve nos changement en Termux dans le Quest ?
+https://youtu.be/NtxuV1WpRPc?t=10050 Allons voir le resultat sur PC 😉
+https://youtu.be/NtxuV1WpRPc?t=10096 Allais on le refait pour voir de PC a Quest
+https://youtu.be/NtxuV1WpRPc?t=10166 Note: Fermer et relancer Godot pour le forcer a recharger les fichiers
+https://youtu.be/NtxuV1WpRPc?t=10271 Tadaaamon a charger depuis le PC un object a voir en XR
+https://youtu.be/NtxuV1WpRPc?t=10300 Alors c est fun d importer... Mais ne pourrait on pas creer sur le Quest 😁
+https://youtu.be/NtxuV1WpRPc?t=10307 Allons dessiner et exporter un sketch de Open Brush 
+https://youtu.be/NtxuV1WpRPc?t=10368 Comment on l export notre bush ?
+https://youtu.be/NtxuV1WpRPc?t=10450 Allons creer des oeuvres d arsts en low poly avec Blocks
+https://youtu.be/NtxuV1WpRPc?t=10561 Comment sauver et exporter Blocks ?
+https://youtu.be/NtxuV1WpRPc?t=10598 Allons recuperer les fichiers a partir de F-Droid
+https://youtu.be/NtxuV1WpRPc?t=10638 Ouvrons Fossify file Manager pour deplacer nos fichiers
+https://youtu.be/NtxuV1WpRPc?t=10679 Bougons notre creation Blocks dans Godot
+https://youtu.be/NtxuV1WpRPc?t=10772 Blocks creez des OBJs, il nous faut donc un MeshInstance3D
+https://youtu.be/NtxuV1WpRPc?t=10844 Bougeons notre ceation Open Brush
+https://youtu.be/NtxuV1WpRPc?t=10902 C est un GLB, ca s import facilement avec un Instanciate
+https://youtu.be/NtxuV1WpRPc?t=10962 Allons un peu voir Gravity Sketch  ;) C est fou
+https://youtu.be/NtxuV1WpRPc?t=11095 Exprtons notre creation 
+https://youtu.be/NtxuV1WpRPc?t=11104 Mais pour ca il nous faut un compte
+https://youtu.be/NtxuV1WpRPc?t=11122 En attendant de creer le compte allons peindre 🖼️🖌️
+https://youtu.be/NtxuV1WpRPc?t=11124 Ouvrons VR Paint 
+https://youtu.be/NtxuV1WpRPc?t=11284 Exportons notre tableau en format .png
+https://youtu.be/NtxuV1WpRPc?t=11320 Deplacons le dans godot en Sprite3D
+https://youtu.be/NtxuV1WpRPc?t=11473 Sauvons tout cela 😋 vous connaissez la routine maintenant.
+https://youtu.be/NtxuV1WpRPc?t=11534 Bon bah du coup, comment on va chercher notre Gravity Sketch si on a un compte
+https://youtu.be/NtxuV1WpRPc?t=11613 C est un Zip... Mais par chance Fossify est un dezipper
+https://youtu.be/NtxuV1WpRPc?t=11677 On la exporter en CM... Ajustons dans Godot.
+https://youtu.be/NtxuV1WpRPc?t=11759 Notre object est composer de 3 materiaux... Creez un commun
+https://youtu.be/NtxuV1WpRPc?t=11885 J avais pas pu vous montrez Virtual Desktop. Une petit visite avant de stopper ?
 
 
 
