@@ -114,70 +114,14 @@ Wifi USB Debugging ( voir adb )
 adb devices
 adb -s
 
-https://youtu.be/NtxuV1WpRPc?t=6848 Placons la UV Grid
-https://youtu.be/NtxuV1WpRPc?t=6865 Commens on utiliser la UV Grid ?
-https://youtu.be/NtxuV1WpRPc?t=6916 Noter que dans Godot  4.7 on aura un outil de dessins 3D ;)
 
-https://youtu.be/NtxuV1WpRPc?t=6970 Importons un glb depuis SketchFab pour voir
-https://youtu.be/NtxuV1WpRPc?t=7056 Sourcer votre telechargment
-https://youtu.be/NtxuV1WpRPc?t=7068 Verifier la license
-https://youtu.be/NtxuV1WpRPc?t=7129 Un pivot mal placer... 
-https://youtu.be/NtxuV1WpRPc?t=7172 L import GLB de godot est manifiquement automatiser
-https://youtu.be/NtxuV1WpRPc?t=7179 Ajoutons un emetteur de son dans notre radio 3D
-https://youtu.be/NtxuV1WpRPc?t=7251 Ils nous faudrait donc un son. Allons chercher Audacity
-https://youtu.be/NtxuV1WpRPc?t=7270 Sans MuseHub
-https://youtu.be/NtxuV1WpRPc?t=7303 Allons telecharger un bruitage ou une musique
-https://youtu.be/NtxuV1WpRPc?t=7357 Retirons le blanc au debut du son
-https://youtu.be/NtxuV1WpRPc?t=7364 Creeons un FadeOut sur la fin du son 
-https://youtu.be/NtxuV1WpRPc?t=7409 Exportons en ogg
-https://youtu.be/NtxuV1WpRPc?t=7433 Ajouter sur AudioStreamer la music et ajoutons un auto play.
-https://youtu.be/NtxuV1WpRPc?t=7458 Pour entre le son, il nous faut un ecouteur sur le camera AudioListener3D
-https://youtu.be/NtxuV1WpRPc?t=7461 Attention, il vous faut celui de godot XR Tool pour un audio spacialiser
-https://youtu.be/NtxuV1WpRPc?t=7532 D autres logiciels Open source ?  BlockBench Grimp Ink 
-https://youtu.be/NtxuV1WpRPc?t=7586 Pour votre culture generale et la fin des gamejams, regardons a OBS
-https://youtu.be/NtxuV1WpRPc?t=7626 Lancons l install  
-https://youtu.be/NtxuV1WpRPc?t=7644 Allons retrouver notre dossier scrcpy installer plus tot.
-https://youtu.be/NtxuV1WpRPc?t=7708 Capturer une fenetre a enregistrer dans OBS
-https://youtu.be/NtxuV1WpRPc?t=7814 Cubisme et Laser Dance ;)
-https://youtu.be/NtxuV1WpRPc?t=7864 Essayons d exporter notre projet pour le passer a un ami
-https://youtu.be/NtxuV1WpRPc?t=7901 Ajoutons Window et constatons qu il nous manque quelque chose.
-https://youtu.be/NtxuV1WpRPc?t=7903 Telechargons et installons Export Template
-https://youtu.be/NtxuV1WpRPc?t=7955 Bon avant d exporter... Ajoutons un petit icosphere pour le plaisir d apprendre a utiliser blender
-https://youtu.be/NtxuV1WpRPc?t=7971 Exportons un cube avec son UV en croix pour voir
-https://youtu.be/NtxuV1WpRPc?t=8026 Creons une icosphere pour voir le prince des forme de blender
-https://youtu.be/NtxuV1WpRPc?t=8081 Ajoutons notre cube a la scene avec une instance classique 
-https://youtu.be/NtxuV1WpRPc?t=8111 Ajoutons lui ca texture
-https://youtu.be/NtxuV1WpRPc?t=8131 Ajoutons notre icosphere en soleil du jeu
-https://youtu.be/NtxuV1WpRPc?t=8148 D abord fictivement avec unshaded
-https://youtu.be/NtxuV1WpRPc?t=8172 Remplacons le directional light par un OmniLight3D dans notre soleil
-https://youtu.be/NtxuV1WpRPc?t=8237 Allons exporter notre projet pour de vrai
-https://youtu.be/NtxuV1WpRPc?t=8244 Creaons un build folder.
-https://youtu.be/NtxuV1WpRPc?t=8291 Tadaaam on a un exe godot XR 😎
-https://youtu.be/NtxuV1WpRPc?t=8369 Essayons de l exporter pour Android XR...
-https://youtu.be/NtxuV1WpRPc?t=8376 Une option de texture a cocher ETC2
-https://youtu.be/NtxuV1WpRPc?t=8389 Petit probleme, un app android c est du java.
-https://youtu.be/NtxuV1WpRPc?t=8393 Telechargons donc un JDK Java developer Kit et SDK (Oracle)
-https://youtu.be/NtxuV1WpRPc?t=8507 On sait parler Java ;) Apprenons a parler Android
-https://youtu.be/NtxuV1WpRPc?t=8518 telechargons Android Studio
-https://youtu.be/NtxuV1WpRPc?t=8548 En lisant la doc... IL y a un autre version de java disponible OpenJDK17
-https://youtu.be/NtxuV1WpRPc?t=8618 Pour android studio on a pas besoin de l emulateur 
-https://youtu.be/NtxuV1WpRPc?t=8665 Android Studio est installer allons dire bonjour au SDK Manager
-https://youtu.be/NtxuV1WpRPc?t=8691 Ajoutons un Google USB driver tant que lon est la.
-https://youtu.be/NtxuV1WpRPc?t=8739 Allons dire a Godot ou se trouve notre JDK et Android SDK
-https://youtu.be/NtxuV1WpRPc?t=8814 Developer: C est juste savoir lire de la documentation et appliquer.
-https://youtu.be/NtxuV1WpRPc?t=8849 Le Quest il est en arm64 bit 
-https://youtu.be/NtxuV1WpRPc?t=8865 changons le nom unique de notre application android
-https://youtu.be/NtxuV1WpRPc?t=8873 pays.company.application
-https://youtu.be/NtxuV1WpRPc?t=8909 On veut du OpenXR ou du XR du constructeur ?
-https://youtu.be/NtxuV1WpRPc?t=8951 Ajoutons deux trois permissions que j utilise souvent
-https://youtu.be/NtxuV1WpRPc?t=8974 On veut la camera (webcam)
-https://youtu.be/NtxuV1WpRPc?t=8980 Internet pour de request, UDP et Websocket
-https://youtu.be/NtxuV1WpRPc?t=8993 Read external storage pour aller chercher des fichiers
-https://youtu.be/NtxuV1WpRPc?t=9001 Write external storage pour generer des fichiers pour le joueur
-https://youtu.be/NtxuV1WpRPc?t=9037 On a une jolie APK pour installer
-https://youtu.be/NtxuV1WpRPc?t=9049 Alors dans la theory on est bon... dans la pratique il me manque une connaissance.
-https://youtu.be/NtxuV1WpRPc?t=9073 Comme je n avais plus de batterie. Allons voir comment utiliser ADB par le Wifi
-https://youtu.be/NtxuV1WpRPc?t=9131 allons voir le resulta avec adb devices
+
+Rappel:
+LinkedIn, GitHub, Google, Google Auth, Protfolio, Itch.io account, Meta Account,
+GitHub Main Page, GitHub Page
+WinDirStat et git LFS
+android/
+/[Bb]uild/
 
 
 
@@ -187,12 +131,11 @@ https://youtu.be/NtxuV1WpRPc?t=9131 allons voir le resulta avec adb devices
 
 
 
-
-
-
-
-
-
+https://youtu.be/NtxuV1WpRPc?t=9218 Bon, Sauvons un coup notre projet avec GitHub Desktop 😋 Avant d aller plus profond 😅
+https://youtu.be/NtxuV1WpRPc?t=9226 ET BOUM, FORSHADOWIN... J ai des gros fichier dans mon commit
+https://youtu.be/NtxuV1WpRPc?t=9272 D ailleurs j avais mal fait mon git ignore avec /Android/ present dans le projet
+https://youtu.be/NtxuV1WpRPc?t=9345 On push sans nos gros fichier ;)
+https://youtu.be/NtxuV1WpRPc?t=9381 VOUS N EST PAS PRET 🗡️🔪... allons travailler dans le casque directement
 
 
 
@@ -597,6 +540,75 @@ https://youtu.be/NtxuV1WpRPc?t=6747 Comment ca fonction en fait un UV ? Essayons
 https://youtu.be/NtxuV1WpRPc?t=6757 Depliage est pas la pour vous rendre la tache facile
 https://youtu.be/NtxuV1WpRPc?t=6800 Explorons ce qu est un UV Grid pour mieux comprendre notre object
 https://youtu.be/NtxuV1WpRPc?t=6827 "from_the_web" oublier pas de sourcer tout ce que vous utiliser sur votre projet
+
+
+
+
+https://youtu.be/NtxuV1WpRPc?t=6848 Placons la UV Grid
+https://youtu.be/NtxuV1WpRPc?t=6865 Commens on utiliser la UV Grid ?
+https://youtu.be/NtxuV1WpRPc?t=6916 Noter que dans Godot  4.7 on aura un outil de dessins 3D ;)
+
+https://youtu.be/NtxuV1WpRPc?t=6970 Importons un glb depuis SketchFab pour voir
+https://youtu.be/NtxuV1WpRPc?t=7056 Sourcer votre telechargment
+https://youtu.be/NtxuV1WpRPc?t=7068 Verifier la license
+https://youtu.be/NtxuV1WpRPc?t=7129 Un pivot mal placer... 
+https://youtu.be/NtxuV1WpRPc?t=7172 L import GLB de godot est manifiquement automatiser
+https://youtu.be/NtxuV1WpRPc?t=7179 Ajoutons un emetteur de son dans notre radio 3D
+https://youtu.be/NtxuV1WpRPc?t=7251 Ils nous faudrait donc un son. Allons chercher Audacity
+https://youtu.be/NtxuV1WpRPc?t=7270 Sans MuseHub
+https://youtu.be/NtxuV1WpRPc?t=7303 Allons telecharger un bruitage ou une musique
+https://youtu.be/NtxuV1WpRPc?t=7357 Retirons le blanc au debut du son
+https://youtu.be/NtxuV1WpRPc?t=7364 Creeons un FadeOut sur la fin du son 
+https://youtu.be/NtxuV1WpRPc?t=7409 Exportons en ogg
+https://youtu.be/NtxuV1WpRPc?t=7433 Ajouter sur AudioStreamer la music et ajoutons un auto play.
+https://youtu.be/NtxuV1WpRPc?t=7458 Pour entre le son, il nous faut un ecouteur sur le camera AudioListener3D
+https://youtu.be/NtxuV1WpRPc?t=7461 Attention, il vous faut celui de godot XR Tool pour un audio spacialiser
+https://youtu.be/NtxuV1WpRPc?t=7532 D autres logiciels Open source ?  BlockBench Grimp Ink 
+https://youtu.be/NtxuV1WpRPc?t=7586 Pour votre culture generale et la fin des gamejams, regardons a OBS
+https://youtu.be/NtxuV1WpRPc?t=7626 Lancons l install  
+https://youtu.be/NtxuV1WpRPc?t=7644 Allons retrouver notre dossier scrcpy installer plus tot.
+https://youtu.be/NtxuV1WpRPc?t=7708 Capturer une fenetre a enregistrer dans OBS
+https://youtu.be/NtxuV1WpRPc?t=7814 Cubisme et Laser Dance ;)
+https://youtu.be/NtxuV1WpRPc?t=7864 Essayons d exporter notre projet pour le passer a un ami
+https://youtu.be/NtxuV1WpRPc?t=7901 Ajoutons Window et constatons qu il nous manque quelque chose.
+https://youtu.be/NtxuV1WpRPc?t=7903 Telechargons et installons Export Template
+https://youtu.be/NtxuV1WpRPc?t=7955 Bon avant d exporter... Ajoutons un petit icosphere pour le plaisir d apprendre a utiliser blender
+https://youtu.be/NtxuV1WpRPc?t=7971 Exportons un cube avec son UV en croix pour voir
+https://youtu.be/NtxuV1WpRPc?t=8026 Creons une icosphere pour voir le prince des forme de blender
+https://youtu.be/NtxuV1WpRPc?t=8081 Ajoutons notre cube a la scene avec une instance classique 
+https://youtu.be/NtxuV1WpRPc?t=8111 Ajoutons lui ca texture
+https://youtu.be/NtxuV1WpRPc?t=8131 Ajoutons notre icosphere en soleil du jeu
+https://youtu.be/NtxuV1WpRPc?t=8148 D abord fictivement avec unshaded
+https://youtu.be/NtxuV1WpRPc?t=8172 Remplacons le directional light par un OmniLight3D dans notre soleil
+https://youtu.be/NtxuV1WpRPc?t=8237 Allons exporter notre projet pour de vrai
+https://youtu.be/NtxuV1WpRPc?t=8244 Creaons un build folder.
+https://youtu.be/NtxuV1WpRPc?t=8291 Tadaaam on a un exe godot XR 😎
+https://youtu.be/NtxuV1WpRPc?t=8369 Essayons de l exporter pour Android XR...
+https://youtu.be/NtxuV1WpRPc?t=8376 Une option de texture a cocher ETC2
+https://youtu.be/NtxuV1WpRPc?t=8389 Petit probleme, un app android c est du java.
+https://youtu.be/NtxuV1WpRPc?t=8393 Telechargons donc un JDK Java developer Kit et SDK (Oracle)
+https://youtu.be/NtxuV1WpRPc?t=8507 On sait parler Java ;) Apprenons a parler Android
+https://youtu.be/NtxuV1WpRPc?t=8518 telechargons Android Studio
+https://youtu.be/NtxuV1WpRPc?t=8548 En lisant la doc... IL y a un autre version de java disponible OpenJDK17
+https://youtu.be/NtxuV1WpRPc?t=8618 Pour android studio on a pas besoin de l emulateur 
+https://youtu.be/NtxuV1WpRPc?t=8665 Android Studio est installer allons dire bonjour au SDK Manager
+https://youtu.be/NtxuV1WpRPc?t=8691 Ajoutons un Google USB driver tant que lon est la.
+https://youtu.be/NtxuV1WpRPc?t=8739 Allons dire a Godot ou se trouve notre JDK et Android SDK
+https://youtu.be/NtxuV1WpRPc?t=8814 Developer: C est juste savoir lire de la documentation et appliquer.
+https://youtu.be/NtxuV1WpRPc?t=8849 Le Quest il est en arm64 bit 
+https://youtu.be/NtxuV1WpRPc?t=8865 changons le nom unique de notre application android
+https://youtu.be/NtxuV1WpRPc?t=8873 pays.company.application
+https://youtu.be/NtxuV1WpRPc?t=8909 On veut du OpenXR ou du XR du constructeur ?
+https://youtu.be/NtxuV1WpRPc?t=8951 Ajoutons deux trois permissions que j utilise souvent
+https://youtu.be/NtxuV1WpRPc?t=8974 On veut la camera (webcam)
+https://youtu.be/NtxuV1WpRPc?t=8980 Internet pour de request, UDP et Websocket
+https://youtu.be/NtxuV1WpRPc?t=8993 Read external storage pour aller chercher des fichiers
+https://youtu.be/NtxuV1WpRPc?t=9001 Write external storage pour generer des fichiers pour le joueur
+https://youtu.be/NtxuV1WpRPc?t=9037 On a une jolie APK pour installer
+https://youtu.be/NtxuV1WpRPc?t=9049 Alors dans la theory on est bon... dans la pratique il me manque une connaissance.
+https://youtu.be/NtxuV1WpRPc?t=9073 Comme je n avais plus de batterie. Allons voir comment utiliser ADB par le Wifi
+https://youtu.be/NtxuV1WpRPc?t=9131 allons voir le resulta avec adb devices
+
 
 
 
