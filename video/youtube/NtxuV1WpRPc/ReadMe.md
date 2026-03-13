@@ -52,72 +52,65 @@ Quest, Standalone, PC Link App,
 Source Inconnue (meta),
 Air Link Mode, USB Linq Mode
 Cable usb C a 10$ vs 70$
+Block, Open Brush, Gravity Sketch, VR Painting
+Four Hourseman of the open source ; Krita, Blender, Audacity, Godot, OBS
+Remove Background et opera GX
+.jpg . png .krita
+Sprite3D
+Scene, Nested Scene, Prefab, Nested Prefab
+.tscn
+Suzanne
+Vertex Color, Vertex Painting, Shader, Degrader de couleur
+.glb, .fbx , .obj ?.openusb?, uv map
+File System > instanciate ( android)
+Transform Scale / Rotate / Position
+Rotation: Direction, Euler, Quaternion , 
+Position: Unity Axis vs Godot Axis
+CTRL + D Duplicate
+Editable Children ( voir prefab variante sur Unity)
+Make Local
+ Blender Edit Mode Object Mode
+Blender > UV > Export UV Layout
+UV Grids
+Credit , Source 
+
+SketchFab, Vertex, Triangle, Low Poly, Hight Poly
+96 triangles, 4k 10k 50k 65k | 200k 2M...
+Texture 1k 4k | 8K 16K?
+3D Pivot
+AudioListener2D  AudioStreamPlayer3D
 
 
-https://youtu.be/NtxuV1WpRPc?t=3849 CMD dans window path pour ouvrir le terminal la ou on est
-https://youtu.be/NtxuV1WpRPc?t=3861 Utilisons Git Status pour voir ou on en est dans la sauvegarde du projet
-https://youtu.be/NtxuV1WpRPc?t=3869 Ajoutons a la sauvegarde les fichiers avec git add .
-https://youtu.be/NtxuV1WpRPc?t=3874 Verifions que ca a marcher avec git status
-https://youtu.be/NtxuV1WpRPc?t=3878 Git Commit -m pour sauver avec un commentaitre
-https://youtu.be/NtxuV1WpRPc?t=3899 Mettons nous a jour au cas ou avec un git pull
-https://youtu.be/NtxuV1WpRPc?t=3902 On est a jour un petit git push pour sauver notre avancement en ligne
-https://youtu.be/NtxuV1WpRPc?t=3950 Creation un `_Project` ou simplement `_` pour rassembler nos affaire
-https://youtu.be/NtxuV1WpRPc?t=3952 Creeons des dossiers: script, scene, assets ...
-https://youtu.be/NtxuV1WpRPc?t=3968 Creeons un petit hello world
-https://youtu.be/NtxuV1WpRPc?t=3990 C est quoi extends Node et _ready ?
-https://youtu.be/NtxuV1WpRPc?t=4000 Le premier Hello World de la video avec print()
-https://youtu.be/NtxuV1WpRPc?t=4009 Creeons un Node vide pour "heberger" les script
-https://youtu.be/NtxuV1WpRPc?t=4039 L editeur de Godot est bien. Mais vous pouvez en utiliser d autres
-https://youtu.be/NtxuV1WpRPc?t=4059 telercharons Visual Studio Code 
-https://youtu.be/NtxuV1WpRPc?t=4078 Vous pouvez aller voir pour JetBrains si vous voulez.
-https://youtu.be/NtxuV1WpRPc?t=4108 VS est un outils tres puissant, leger et surtout modulaire.
-https://youtu.be/NtxuV1WpRPc?t=4141 Ouvrons votre projet
-https://youtu.be/NtxuV1WpRPc?t=4164 Ajoutons un module pour Godot dans VS Code
-https://youtu.be/NtxuV1WpRPc?t=4204 Donnons a VS Code le chemain de l executabe Godot pour qu il communique
-https://youtu.be/NtxuV1WpRPc?t=4257 Tadaaam on a un jolie code de couleur
-https://youtu.be/NtxuV1WpRPc?t=4272 Ajoutons un compteur de frame pour le fun 
-https://youtu.be/NtxuV1WpRPc?t=4277 @export var nom_variable_membre: type = valeur_par_default
-https://youtu.be/NtxuV1WpRPc?t=4315 Incrementer un variable avec += 1 
-https://youtu.be/NtxuV1WpRPc?t=4339 Commenter pour la documentation avec ##
-https://youtu.be/NtxuV1WpRPc?t=4390 Comment on fait pour faire tourner un Cube ?
-https://youtu.be/NtxuV1WpRPc?t=4395 D abord on demande a un moteur de recherche
-https://youtu.be/NtxuV1WpRPc?t=4402 On lit deux trois forums
-https://youtu.be/NtxuV1WpRPc?t=4429 RTFM, on va lire le manual et le doc
-https://youtu.be/NtxuV1WpRPc?t=4454 Godot Doc est tres bien entretenu par la communauter sur GitHub
-https://youtu.be/NtxuV1WpRPc?t=4486 Dans les AI il y a les hors ligne avec LM Studio et Hugging Face
-https://youtu.be/NtxuV1WpRPc?t=4521 Mais moi, j utilise Copilot payant sur VS Code par faciliter
-https://youtu.be/NtxuV1WpRPc?t=4578 Allons installer le module de Copilot
-https://youtu.be/NtxuV1WpRPc?t=4623 Demander de laide a copilot CTRL+i Help ou CTRL+SHIT+I pour le Chat
-https://youtu.be/NtxuV1WpRPc?t=4632 Ce loger avec votre compte GitHub
-https://youtu.be/NtxuV1WpRPc?t=4648 Avec copilot, vous pouvez choisir l AI utiliser par Microsoft pour vous aider.
-https://youtu.be/NtxuV1WpRPc?t=4675 Les AI dans visual studio utilise le context envionant
-https://youtu.be/NtxuV1WpRPc?t=4708 Ajoutons un @export pour le game designer dans l inspecteur
-https://youtu.be/NtxuV1WpRPc?t=4715 Les Ai sont tres bonne a documenter et vous aidez a comprendre
-https://youtu.be/NtxuV1WpRPc?t=4727 Copier coller du code sans comprendre.... Pas bien
-https://youtu.be/NtxuV1WpRPc?t=4759 Demander a l AI de vous faire des CheatSheet (brouillons de triche
-https://youtu.be/NtxuV1WpRPc?t=4790 On a vu git en console et en UI... Vous avez git directement dans VS Code ;)
-https://youtu.be/NtxuV1WpRPc?t=4856 Alors  c est bien Steam VR... Mais si vous avez un Quest. Il faut un peu voir ce que Meta propose
-https://youtu.be/NtxuV1WpRPc?t=4859 Telechargeons l Oculus Setup ici appelez Meta Horizon Link App
-https://youtu.be/NtxuV1WpRPc?t=4892 C est du next next avec un bon gros Giga a telecharger
-https://youtu.be/NtxuV1WpRPc?t=4900 Bon pour ce logger il vous faut un compte
-https://youtu.be/NtxuV1WpRPc?t=4909 La petite annecdote de Facebook qui se renomme Meta...
-https://youtu.be/NtxuV1WpRPc?t=4960 Creeons un compte ensemble pour devenir developper
-https://youtu.be/NtxuV1WpRPc?t=5022 Confirmer votre mail via le code envoyer
-https://youtu.be/NtxuV1WpRPc?t=5060 Meta essie de vous forcer a utiliser Horizon...
-https://youtu.be/NtxuV1WpRPc?t=5087 Toujours authorizer le navigateur a communiquer avec l application meta
-https://youtu.be/NtxuV1WpRPc?t=5098 Ajouter un pin d administrateur pour votre casque et les future achats possible
-https://youtu.be/NtxuV1WpRPc?t=5121 On a un compte allons le passer en developpeur sur developers portal
-https://youtu.be/NtxuV1WpRPc?t=5131 Ajouter un double authentification sur votre compte develper est obligatoire
-https://youtu.be/NtxuV1WpRPc?t=5171 Ils vous faut donc telecharger Google Auth et ajouter le QR Code pour la cle de validation
-https://youtu.be/NtxuV1WpRPc?t=5259 Maitnenant, il vous faut creer un organisation (team)
-https://youtu.be/NtxuV1WpRPc?t=5291 Creeons une application Quest et une application PC VR
-https://youtu.be/NtxuV1WpRPc?t=5313 Et vous voila en possition du dashboard de developer sur Meta Store
-https://youtu.be/NtxuV1WpRPc?t=5360 Retournons dans logiciel Meta et acceptions les sources inconnue
-https://youtu.be/NtxuV1WpRPc?t=5363 Et changons le Open XR par default a Meta Linq
-https://youtu.be/NtxuV1WpRPc?t=5396 Petit particulariter, il a vallu aller metre le case en air link pour l ajouter
-https://youtu.be/NtxuV1WpRPc?t=5404 Pairons le Air Link a notre ordinateur
-https://youtu.be/NtxuV1WpRPc?t=5420 Testons notre connection par Cable 
-https://youtu.be/NtxuV1WpRPc?t=5446 Oublier pas de lancer Quest Linq... Et de brancher le cable 😋
+
+https://youtu.be/NtxuV1WpRPc?t=6848 Placons la UV Grid
+https://youtu.be/NtxuV1WpRPc?t=6865 Commens on utiliser la UV Grid ?
+https://youtu.be/NtxuV1WpRPc?t=6916 Noter que dans Godot  4.7 on aura un outil de dessins 3D ;)
+
+https://youtu.be/NtxuV1WpRPc?t=6970 Importons un glb depuis SketchFab pour voir
+https://youtu.be/NtxuV1WpRPc?t=7056 Sourcer votre telechargment
+https://youtu.be/NtxuV1WpRPc?t=7068 Verifier la license
+https://youtu.be/NtxuV1WpRPc?t=7129 Un pivot mal placer... 
+https://youtu.be/NtxuV1WpRPc?t=7172 L import GLB de godot est manifiquement automatiser
+https://youtu.be/NtxuV1WpRPc?t=7179 Ajoutons la capaciter d entendre du son dans notre jeux AudioListener2D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -390,6 +383,117 @@ https://youtu.be/NtxuV1WpRPc?t=3815 Un petit pull pour prendre l habitude de se 
 https://youtu.be/NtxuV1WpRPc?t=3821 Un petit push pour envoyer la sauvegarde local en ligne
 https://youtu.be/NtxuV1WpRPc?t=3840 Ok, GithDesktop et Fork c est chouette mais en ligne de commande ?
 
+
+
+https://youtu.be/NtxuV1WpRPc?t=3849 CMD dans window path pour ouvrir le terminal la ou on est
+https://youtu.be/NtxuV1WpRPc?t=3861 Utilisons Git Status pour voir ou on en est dans la sauvegarde du projet
+https://youtu.be/NtxuV1WpRPc?t=3869 Ajoutons a la sauvegarde les fichiers avec git add .
+https://youtu.be/NtxuV1WpRPc?t=3874 Verifions que ca a marcher avec git status
+https://youtu.be/NtxuV1WpRPc?t=3878 Git Commit -m pour sauver avec un commentaitre
+https://youtu.be/NtxuV1WpRPc?t=3899 Mettons nous a jour au cas ou avec un git pull
+https://youtu.be/NtxuV1WpRPc?t=3902 On est a jour un petit git push pour sauver notre avancement en ligne
+https://youtu.be/NtxuV1WpRPc?t=3950 Creation un `_Project` ou simplement `_` pour rassembler nos affaire
+https://youtu.be/NtxuV1WpRPc?t=3952 Creeons des dossiers: script, scene, assets ...
+https://youtu.be/NtxuV1WpRPc?t=3968 Creeons un petit hello world
+https://youtu.be/NtxuV1WpRPc?t=3990 C est quoi extends Node et _ready ?
+https://youtu.be/NtxuV1WpRPc?t=4000 Le premier Hello World de la video avec print()
+https://youtu.be/NtxuV1WpRPc?t=4009 Creeons un Node vide pour "heberger" les script
+https://youtu.be/NtxuV1WpRPc?t=4039 L editeur de Godot est bien. Mais vous pouvez en utiliser d autres
+https://youtu.be/NtxuV1WpRPc?t=4059 telercharons Visual Studio Code 
+https://youtu.be/NtxuV1WpRPc?t=4078 Vous pouvez aller voir pour JetBrains si vous voulez.
+https://youtu.be/NtxuV1WpRPc?t=4108 VS est un outils tres puissant, leger et surtout modulaire.
+https://youtu.be/NtxuV1WpRPc?t=4141 Ouvrons votre projet
+https://youtu.be/NtxuV1WpRPc?t=4164 Ajoutons un module pour Godot dans VS Code
+https://youtu.be/NtxuV1WpRPc?t=4204 Donnons a VS Code le chemain de l executabe Godot pour qu il communique
+https://youtu.be/NtxuV1WpRPc?t=4257 Tadaaam on a un jolie code de couleur
+https://youtu.be/NtxuV1WpRPc?t=4272 Ajoutons un compteur de frame pour le fun 
+https://youtu.be/NtxuV1WpRPc?t=4277 @export var nom_variable_membre: type = valeur_par_default
+https://youtu.be/NtxuV1WpRPc?t=4315 Incrementer un variable avec += 1 
+https://youtu.be/NtxuV1WpRPc?t=4339 Commenter pour la documentation avec ##
+https://youtu.be/NtxuV1WpRPc?t=4390 Comment on fait pour faire tourner un Cube ?
+https://youtu.be/NtxuV1WpRPc?t=4395 D abord on demande a un moteur de recherche
+https://youtu.be/NtxuV1WpRPc?t=4402 On lit deux trois forums
+https://youtu.be/NtxuV1WpRPc?t=4429 RTFM, on va lire le manual et le doc
+https://youtu.be/NtxuV1WpRPc?t=4454 Godot Doc est tres bien entretenu par la communauter sur GitHub
+https://youtu.be/NtxuV1WpRPc?t=4486 Dans les AI il y a les hors ligne avec LM Studio et Hugging Face
+https://youtu.be/NtxuV1WpRPc?t=4521 Mais moi, j utilise Copilot payant sur VS Code par faciliter
+https://youtu.be/NtxuV1WpRPc?t=4578 Allons installer le module de Copilot
+https://youtu.be/NtxuV1WpRPc?t=4623 Demander de laide a copilot CTRL+i Help ou CTRL+SHIT+I pour le Chat
+https://youtu.be/NtxuV1WpRPc?t=4632 Ce loger avec votre compte GitHub
+https://youtu.be/NtxuV1WpRPc?t=4648 Avec copilot, vous pouvez choisir l AI utiliser par Microsoft pour vous aider.
+https://youtu.be/NtxuV1WpRPc?t=4675 Les AI dans visual studio utilise le context envionant
+https://youtu.be/NtxuV1WpRPc?t=4708 Ajoutons un @export pour le game designer dans l inspecteur
+https://youtu.be/NtxuV1WpRPc?t=4715 Les Ai sont tres bonne a documenter et vous aidez a comprendre
+https://youtu.be/NtxuV1WpRPc?t=4727 Copier coller du code sans comprendre.... Pas bien
+https://youtu.be/NtxuV1WpRPc?t=4759 Demander a l AI de vous faire des CheatSheet (brouillons de triche
+https://youtu.be/NtxuV1WpRPc?t=4790 On a vu git en console et en UI... Vous avez git directement dans VS Code ;)
+https://youtu.be/NtxuV1WpRPc?t=4856 Alors  c est bien Steam VR... Mais si vous avez un Quest. Il faut un peu voir ce que Meta propose
+https://youtu.be/NtxuV1WpRPc?t=4859 Telechargeons l Oculus Setup ici appelez Meta Horizon Link App
+https://youtu.be/NtxuV1WpRPc?t=4892 C est du next next avec un bon gros Giga a telecharger
+https://youtu.be/NtxuV1WpRPc?t=4900 Bon pour ce logger il vous faut un compte
+https://youtu.be/NtxuV1WpRPc?t=4909 La petite annecdote de Facebook qui se renomme Meta...
+https://youtu.be/NtxuV1WpRPc?t=4960 Creeons un compte ensemble pour devenir developper
+https://youtu.be/NtxuV1WpRPc?t=5022 Confirmer votre mail via le code envoyer
+https://youtu.be/NtxuV1WpRPc?t=5060 Meta essie de vous forcer a utiliser Horizon...
+https://youtu.be/NtxuV1WpRPc?t=5087 Toujours authorizer le navigateur a communiquer avec l application meta
+https://youtu.be/NtxuV1WpRPc?t=5098 Ajouter un pin d administrateur pour votre casque et les future achats possible
+https://youtu.be/NtxuV1WpRPc?t=5121 On a un compte allons le passer en developpeur sur developers portal
+https://youtu.be/NtxuV1WpRPc?t=5131 Ajouter un double authentification sur votre compte develper est obligatoire
+https://youtu.be/NtxuV1WpRPc?t=5171 Ils vous faut donc telecharger Google Auth et ajouter le QR Code pour la cle de validation
+https://youtu.be/NtxuV1WpRPc?t=5259 Maitnenant, il vous faut creer un organisation (team)
+https://youtu.be/NtxuV1WpRPc?t=5291 Creeons une application Quest et une application PC VR
+https://youtu.be/NtxuV1WpRPc?t=5313 Et vous voila en possition du dashboard de developer sur Meta Store
+https://youtu.be/NtxuV1WpRPc?t=5360 Retournons dans logiciel Meta et acceptions les sources inconnue
+https://youtu.be/NtxuV1WpRPc?t=5363 Et changons le Open XR par default a Meta Linq
+https://youtu.be/NtxuV1WpRPc?t=5396 Petit particulariter, il a vallu aller metre le case en air link pour l ajouter
+https://youtu.be/NtxuV1WpRPc?t=5404 Pairons le Air Link a notre ordinateur
+https://youtu.be/NtxuV1WpRPc?t=5420 Testons notre connection par Cable 
+https://youtu.be/NtxuV1WpRPc?t=5446 Oublier pas de lancer Quest Linq... Et de brancher le cable 😋
+https://youtu.be/NtxuV1WpRPc?t=5468 Menu de configuration du casque sur PC 
+https://youtu.be/NtxuV1WpRPc?t=5483 Noter que publier une application en priver sur Meta permet de le tester un peu partout
+https://youtu.be/NtxuV1WpRPc?t=5494 Allonrs un peu regarder a des applications de production 3D VR
+https://youtu.be/NtxuV1WpRPc?t=5496 Telechargons Open Blocks sur votre casque pour du low poly
+https://youtu.be/NtxuV1WpRPc?t=5527 Telechargons Open Brush sur votre casque pour des measure
+https://youtu.be/NtxuV1WpRPc?t=5551 Telechargons Gravity Sketch pour des formes et prototypage
+https://youtu.be/NtxuV1WpRPc?t=5604 Bah c est bon, on peut utiliser Oculus Linq Avec Godot 😉
+https://youtu.be/NtxuV1WpRPc?t=5647 Allons nous donner plus de droit en tant que developpeurs
+https://youtu.be/NtxuV1WpRPc?t=5659 Le passthrough ( la camera par dessus le fond noir)
+https://youtu.be/NtxuV1WpRPc?t=5672 A l espace 3d de la piece si vous utilisez SDK native de meta.
+https://youtu.be/NtxuV1WpRPc?t=5702 On est pret pour travailler... Mais ils nous faudrait des outils pour travailler
+https://youtu.be/NtxuV1WpRPc?t=5712 Telechargeons Krita 
+https://youtu.be/NtxuV1WpRPc?t=5728 Telechargons Blender
+https://youtu.be/NtxuV1WpRPc?t=5749 Installons Krita et apprennons a l utiliser
+https://youtu.be/NtxuV1WpRPc?t=5769 Shift + Window + S pour prendre une capture d ecran
+https://youtu.be/NtxuV1WpRPc?t=5778 Utilisons le site Remove Background pour le fun sous opera GX
+https://youtu.be/NtxuV1WpRPc?t=5807 Savoir creer un page Krita pour decouvrier
+https://youtu.be/NtxuV1WpRPc?t=5856 Croppons la selection
+https://youtu.be/NtxuV1WpRPc?t=5872 Changer la taille de travail en multiple de 2
+https://youtu.be/NtxuV1WpRPc?t=5907 On reajsute et on export dans godot/_/assets/2d
+https://youtu.be/NtxuV1WpRPc?t=5981 Creer vos propre convention mais essayer de garder de l ordre dans votre projet
+https://youtu.be/NtxuV1WpRPc?t=5997 Utilisons un Sprite3D pour afficher notre image
+https://youtu.be/NtxuV1WpRPc?t=6043 Creeons un Node Vide pour stocker et ajuste notre sprite histoire d en faire un scene
+https://youtu.be/NtxuV1WpRPc?t=6125 Installons Blender 
+https://youtu.be/NtxuV1WpRPc?t=6161 On retire la lumiere et la camera pour pas l exporter plus tard
+https://youtu.be/NtxuV1WpRPc?t=6166 On ajoute Suzanne, la mascotte de blender
+https://youtu.be/NtxuV1WpRPc?t=6184 Colorions les points 3D de lobject avec du Vertex Color
+https://youtu.be/NtxuV1WpRPc?t=6261 Allons plutot regarder ce que c est une texture et un depliage UV
+https://youtu.be/NtxuV1WpRPc?t=6290 Exprotons notre Suzanne en .GLB
+https://youtu.be/NtxuV1WpRPc?t=6383 Ajoutons notre Suzanne dans notre jeu ;) avec instanciate
+https://youtu.be/NtxuV1WpRPc?t=6450 Changeons ca taille avec  Transform Scale
+https://youtu.be/NtxuV1WpRPc?t=6453 Duplicons notre suzanne avec CTRL+D
+https://youtu.be/NtxuV1WpRPc?t=6473 Utilisons Editable Children pour personnaliser notre object
+https://youtu.be/NtxuV1WpRPc?t=6503 Comme il me laisse pas l editer la ou j ai besoin rendons la local
+https://youtu.be/NtxuV1WpRPc?t=6519 Make Local
+https://youtu.be/NtxuV1WpRPc?t=6528 Creeons un material Standard
+https://youtu.be/NtxuV1WpRPc?t=6571 Ils nous faudrait sont UV allons le exporter depuis blender
+https://youtu.be/NtxuV1WpRPc?t=6577 Passone en Blender Edit Mode
+https://youtu.be/NtxuV1WpRPc?t=6614 Tadaaam, votre premier UV sur un object 3D
+https://youtu.be/NtxuV1WpRPc?t=6634 Nous on veut le colorier pour le fun
+https://youtu.be/NtxuV1WpRPc?t=6720 On recommencer avec notre nouvelle texture
+https://youtu.be/NtxuV1WpRPc?t=6747 Comment ca fonction en fait un UV ? Essayons de dessiner la marque de Simba
+https://youtu.be/NtxuV1WpRPc?t=6757 Depliage est pas la pour vous rendre la tache facile
+https://youtu.be/NtxuV1WpRPc?t=6800 Explorons ce qu est un UV Grid pour mieux comprendre notre object
+https://youtu.be/NtxuV1WpRPc?t=6827 "from_the_web" oublier pas de sourcer tout ce que vous utiliser sur votre projet
 
 
 
