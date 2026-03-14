@@ -23,10 +23,24 @@ Software:
 - [ ] [Terminal](https://github.com/EloiStree/HelloGodotXR/issues/97)
 - [ ] [console](https://github.com/EloiStree/HelloGodotXR/issues/95) terminal 
 - [ ] [PowerShell](https://github.com/EloiStree/HelloGodotXR/issues/96)
+- [ ] [Virtual desktop](https://github.com/EloiStree/HelloGodotXR/issues/105) 
+  - [ ] [Virtual Desktop Streamer App](https://github.com/EloiStree/HelloGodotXR/issues/106)
+- [ ] 
 - Game:
   - [Alyx](https://github.com/EloiStree/HelloGodotXR/issues/86)
   - [Cubism](https://github.com/EloiStree/HelloGodotXR/issues/98)
   - [Laser Game](https://github.com/EloiStree/HelloGodotXR/issues/99)
+  - Toolkit:
+    - [MRTK](https://github.com/EloiStree/HelloGodotXR/issues/101)
+    - [VRTK](https://github.com/EloiStree/HelloGodotXR/issues/102)
+    - [XRTK](https://github.com/EloiStree/HelloGodotXR/issues/103)
+    - [Godot XR Tools](https://github.com/EloiStree/HelloGodotXR/issues/104)
+- Git:
+  - [SourceTree](https://github.com/EloiStree/HelloGodotXR/issues/110)
+  - [Fork](https://github.com/EloiStree/HelloGodotXR/issues/109)
+  - [GitHub Desktop](https://github.com/EloiStree/HelloGodotXR/issues/108)
+  - [Git in VSCode](https://github.com/EloiStree/HelloGodotXR/issues/107)
+  -   
 Website:
 - [ ] [SketchFab](https://github.com/EloiStree/HelloGodotXR/issues/80)
 - [ ] Store
@@ -84,8 +98,9 @@ Shortcut:
 - 
 
 ADB:
-- 
--  adb install
+- adb devices
+- adb install
+- adb screenshot
 
 
 Vocabulaire:
@@ -99,12 +114,12 @@ Local Floor, Stage, Bend mode Alpha, VR v AR, Hand Tracking, Rendering Environme
 VR Sickness , bouger, tourner, teleporter , Pick, Highlight, Hand position, Snap board  
 , ,  ,  Drag and drop , ,  
 Unkown source, Menu Developper App,  
-ALVR, BitRate, Compression d image, Wifi Stream  
-Virtual Desktop, Streamer App, Meta User Name,   
+, BitRate, Compression d image, Wifi Stream  
+, Meta User Name,   
 Pico vs Dream vs Google vs Viveport vs Android XR   
 Start With Window, shell:startup, OpenXR Runtime Selection,  
-Adb screenshot,   
-SourceTree , Fork, GitHub Desktop ,   
+,   
+ ,   
 git config, user.name, user.email , git blame, -- global  
 git init, repertoire  
 git description, readme.md, .md , .gitignore  
