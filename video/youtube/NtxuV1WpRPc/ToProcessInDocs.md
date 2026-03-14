@@ -50,7 +50,8 @@ Website:
     - [ ] [Meta Store Developer Portal](https://github.com/EloiStree/HelloGodotXR/issues/90)
   - [ ] [Google Play Store](https://github.com/EloiStree/HelloGodotXR/issues/91)
     - [ ] [Google Play Console Developer Portal ](https://github.com/EloiStree/HelloGodotXR/issues/90)
-
+- [ ] [gitignore.io](https://github.com/EloiStree/HelloGodotXR/issues/111)
+- [ ] [https://auth.meta.com ](https://github.com/EloiStree/HelloGodotXR/issues/113)
 Account:
 - Google Gmail Account
 - Meta Account
@@ -84,6 +85,9 @@ Godot engine:
 - Shader Mode,
   - per-pixel
   - unshaded
+extends Node, _ready, _process, func, pass vs return, void ,delfat:float  
+print(), ""    
+
 
 Godot Engine XR:
 - XRServer.find_interface
@@ -97,10 +101,11 @@ Asset Lib
 Shortcut:
 - 
 
-ADB:
-- adb devices
-- adb install
-- adb screenshot
+ADB: [HelloAdb](https://github.com/EloiStree/HelloAdb)
+- [adb devices](https://github.com/EloiStree/HelloAdb/issues/2)
+- [adb install](https://github.com/EloiStree/HelloAdb/issues/3)
+- [adb screenshot](https://github.com/EloiStree/HelloAdb/issues/5)
+- [adb -s](https://github.com/EloiStree/HelloAdb/issues/4)
 
 
 Vocabulaire:
@@ -123,22 +128,24 @@ Start With Window, shell:startup, OpenXR Runtime Selection,
 git config, user.name, user.email , git blame, -- global  
 git init, repertoire  
 git description, readme.md, .md , .gitignore  
-public vs private  
-extension de fichier, fichier cacher, .git/  
-.gitignore, *.cfg, gitignore.io  
+
+- public vs private  
+- extension de fichier,
+- fichier cacher, 
+.git/  
+.gitignore, *.cfg,  
 stage, unstage, add, commit   
 25,50,100Mo WinDirStat, MB, Mb et MO, Bytes   
 stage, fetch, pull, push  
 cmd, folder path, status, add . , commit -m , pull push  
-extends Node, _ready, _process, func, pass vs return, void ,delfat:float  
-print(), ""    
 visual studio code, vs visual studio, vs JetBrain  
 @export, var, nom_variable_membre: type_variable ,=, valeur_par_default,   
 `#` , `##` , RTFM, Godot Docs    
-LM Studio , Hugging Face Copilote      
+ , Hugging Face Copilote      
 @export , inspector, level designer, integrateur  
 CheatSheet,   
-Oculus Setup, Meta Horizon Link App , Meta, Auth.methat.com  
+Oculus Setup,  , Meta,
+ddddddddddddddddddddd
 Horizon... ,  
 developers.meta.com, portal,  
 Google Auth, QR Code, Cle de recuperation  
