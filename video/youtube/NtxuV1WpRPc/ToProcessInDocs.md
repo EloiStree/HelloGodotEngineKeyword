@@ -29,20 +29,22 @@ Software:
 - [ ] [Android Meta Horizon App](https://github.com/EloiStree/HelloGodotXR/issues/116)
 - [ ]  [SideQuest Window](https://github.com/EloiStree/HelloGodotXR/issues/118)
 - [ ] [Screen Copy](https://github.com/EloiStree/HelloGodotXR/issues/119)
-- [ ] ShapeXR
+- [ ] Krita
+- [ ] Blender
+- [ ] Audacity
+- [ ] Godot
+- [ ] OBS
+- [ ] Brave opera GX  
 - [ ] BlockBench
-- [ ]  Ink
-- [ ]   Gimp
-- [ ]   OBS: Window Capture ADB
-- [ ]   Java JDK,
-- [ ]   OpenJDK
-- [ ]   Android Studio
-- [ ]   OpenJDK17
-- [ ]   WinDirStat 
+- [ ] Ink
+- [ ] [OpenJDK](https://github.com/EloiStree/HelloGodotXR/issues/128)
+- [ ] Android Studio
+- [ ] OpenJDK17
+- [ ] WinDirStat 
 - [ ] FDroid   
-- [ ] Termux,
-- [ ] Termuc,
-- [ ] Fossify File Manager   
+  - [ ] Termux,
+  - [ ] Termuc,
+  - [ ] Fossify File Manager   
 - Game:
   - [Alyx](https://github.com/EloiStree/HelloGodotXR/issues/86)
   - [Cubism](https://github.com/EloiStree/HelloGodotXR/issues/98)
@@ -52,6 +54,8 @@ Software:
     - [VRTK](https://github.com/EloiStree/HelloGodotXR/issues/102)
     - [XRTK](https://github.com/EloiStree/HelloGodotXR/issues/103)
     - [Godot XR Tools](https://github.com/EloiStree/HelloGodotXR/issues/104)
+  - [ ] ShapeXR
+ 
 - Git:
   - [SourceTree](https://github.com/EloiStree/HelloGodotXR/issues/110)
   - [Fork](https://github.com/EloiStree/HelloGodotXR/issues/109)
@@ -70,6 +74,10 @@ Website:
     - [ ] [Google Play Console Developer Portal ](https://github.com/EloiStree/HelloGodotXR/issues/90)
 - [ ] [gitignore.io](https://github.com/EloiStree/HelloGodotXR/issues/111)
 - [ ] [https://auth.meta.com ](https://github.com/EloiStree/HelloGodotXR/issues/113)
+- [ ] EloiTeaching  
+- [ ] EloiStree Raw
+- [ ] [Remove Background](https://github.com/EloiStree/HelloGodotXR/issues/127)
+
 Account:
 - Google Gmail Account
 - Meta Account
@@ -179,15 +187,7 @@ Pack: [Open Blocks Color](https://github.com/EloiStree/HelloGodotXR/issues/123?r
 [VR Painting](https://github.com/EloiStree/HelloGodotXR/issues/126)  
 
 
-Krita,
-Blender,
-Audacity,
-Godot,
-OBS  
-[Remove Background](https://github.com/EloiStree/HelloGodotXR/issues/127)
-Brave 
 
-opera GX  
 .jpg . png .krita  
 .tscn   
 .glb, .fbx , .obj ?.openusb?, 
@@ -258,11 +258,10 @@ android/
 Meta Developer Hub: ADB over Wi-fi    
 Meta Developer Hub: Cast Device   
 
-EloiTeaching  
-EloiStree Raw  
 
   
-  
+  - [ ] OBS: Window Capture ADB
+
 SideQuest PC, SideQuest Android  
 ~ , ~/storage/shared/document ,~/storage/shared/  
 rm -r path/    
