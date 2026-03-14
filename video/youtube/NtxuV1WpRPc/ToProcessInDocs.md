@@ -25,7 +25,24 @@ Software:
 - [ ] [PowerShell](https://github.com/EloiStree/HelloGodotXR/issues/96)
 - [ ] [Virtual desktop](https://github.com/EloiStree/HelloGodotXR/issues/105) 
   - [ ] [Virtual Desktop Streamer App](https://github.com/EloiStree/HelloGodotXR/issues/106)
-- [ ] 
+- [ ] [Google Auth](https://github.com/EloiStree/HelloGodotXR/issues/115)
+- [ ] [Android Meta Horizon App](https://github.com/EloiStree/HelloGodotXR/issues/116)
+- [ ]  [SideQuest Window](https://github.com/EloiStree/HelloGodotXR/issues/118)
+- [ ] [Screen Copy](https://github.com/EloiStree/HelloGodotXR/issues/119)
+- [ ] ShapeXR
+- [ ] BlockBench
+- [ ]  Ink
+- [ ]   Gimp
+- [ ]   OBS: Window Capture ADB
+- [ ]   Java JDK,
+- [ ]   OpenJDK
+- [ ]   Android Studio
+- [ ]   OpenJDK17
+- [ ]   WinDirStat 
+- [ ] FDroid   
+- [ ] Termux,
+- [ ] Termuc,
+- [ ] Fossify File Manager   
 - Game:
   - [Alyx](https://github.com/EloiStree/HelloGodotXR/issues/86)
   - [Cubism](https://github.com/EloiStree/HelloGodotXR/issues/98)
@@ -43,11 +60,12 @@ Software:
   -   
 Website:
 - [ ] [SketchFab](https://github.com/EloiStree/HelloGodotXR/issues/80)
+- [ ] [SideQuest Website](https://github.com/EloiStree/HelloGodotXR/issues/117)
 - [ ] Store
   - [ ] [Itchio](https://github.com/EloiStree/HelloGodotXR/issues/87)
   - [ ] [AppLab](https://github.com/EloiStree/HelloGodotXR/issues/88)
   - [ ] [Meta Store](https://github.com/EloiStree/HelloGodotXR/issues/89)
-    - [ ] [Meta Store Developer Portal](https://github.com/EloiStree/HelloGodotXR/issues/90)
+    - [ ] [Meta Store Developer Portal](https://github.com/EloiStree/HelloGodotXR/issues/114)
   - [ ] [Google Play Store](https://github.com/EloiStree/HelloGodotXR/issues/91)
     - [ ] [Google Play Console Developer Portal ](https://github.com/EloiStree/HelloGodotXR/issues/90)
 - [ ] [gitignore.io](https://github.com/EloiStree/HelloGodotXR/issues/111)
@@ -144,60 +162,72 @@ visual studio code, vs visual studio, vs JetBrain
  , Hugging Face Copilote      
 @export , inspector, level designer, integrateur  
 CheatSheet,   
-Oculus Setup,  , Meta,
+,  , Meta,
 ddddddddddddddddddddd
 Horizon... ,  
-developers.meta.com, portal,  
-Google Auth, QR Code, Cle de recuperation  
+, portal,  
+, QR Code, Cle de recuperation  
 Organisation Meta,  
 Quest, Standalone, PC Link App,  
 Source Inconnue (meta),  
 Air Link Mode, USB Linq Mode   
 Cable usb C a 10$ vs 70$  
-Block, Open Brush, Gravity Sketch, VR Painting  
-Four Hourseman of the open source ; Krita, Blender, Audacity, Godot, OBS  
-Remove Background et opera GX  
+[Open Blocks](https://github.com/EloiStree/HelloGodotXR/issues/122)
+Pack: [Open Blocks Color](https://github.com/EloiStree/HelloGodotXR/issues/123?reload=1)
+[Open Brush](https://github.com/EloiStree/HelloGodotXR/issues/124)
+[Gravity Sketch](https://github.com/EloiStree/HelloGodotXR/issues/125)
+[VR Painting](https://github.com/EloiStree/HelloGodotXR/issues/126)  
+
+
+Krita,
+Blender,
+Audacity,
+Godot,
+OBS  
+[Remove Background](https://github.com/EloiStree/HelloGodotXR/issues/127)
+Brave 
+
+opera GX  
 .jpg . png .krita  
+.tscn   
+.glb, .fbx , .obj ?.openusb?, 
+.wav .mp4 .ogg  
+uv map   
+
 Sprite3D  
 Scene, Nested Scene, Prefab, Nested Prefab    
-.tscn   
+
 Suzanne  
 Vertex Color, Vertex Painting, Shader, Degrader de couleur  
-.glb, .fbx , .obj ?.openusb?, uv map   
 File System > instanciate ( android)  
 Transform Scale / Rotate / Position  
 Rotation: Direction, Euler, Quaternion ,   
 Position: Unity Axis vs Godot Axis  
-CTRL + D Duplicate  
 Editable Children ( voir prefab variante sur Unity)  
 Make Local  
- Blender Edit Mode Object Mode  
+Blender Edit Mode Object Mode  
 Blender > UV > Export UV Layout   
 UV Grids   
 Credit , Source   
   
+CTRL + D Duplicate  
 SketchFab, Vertex, Triangle, Low Poly, Hight Poly  
 96 triangles, 4k 10k 50k 65k | 200k 2M...  
 Texture 1k 4k | 8K 16K?  
 3D Pivot  
 AudioListener2D  AudioStreamPlayer3D  
-.wav .mp4 .ogg  
-BlockBench Ink, Gimp  
-OBS: Window Capture ADB  
 Cubisme, Laser Dance  
 VRTK, MRTK, XRTK, Godot TK    
 Icosphere,      
 Cross Cube UV vs 8 Face UV vs 1 face UV  
-?Mixamo?  
+
 Sphere Parfait avec Blender  
 Export Template  
 Exercice: Faire et peindre un dee de D7D  
 Fausse luniere, Unshaded  
 Build folder, ?Old Build Disk?  
-Import ETC2 ASTC Texture  
-Java JDK, SDK, Oracle, OpenJDK  
-Android Studio, Android SDK  
-OpenJDK17   
+Import ETC2 ASTC Texture 
+
 ASMenu :SDK Manager   
 Google USB Driver   
 Google Web Driver  
@@ -216,12 +246,13 @@ Wifi USB Debugging ( voir adb )
 adb devices     
 adb -s  
   
+- [ ]   Android SDK  
 
 
 Rappel:
 LinkedIn, GitHub, Google, Google Auth, Protfolio, Itch.io account, Meta Account,    
 GitHub Main Page, GitHub Page, Gravity Sketch , ShareXR*  
-WinDirStat et git LFS   
+git LFS   
 android/   
 /[Bb]uild/   
 Meta Developer Hub: ADB over Wi-fi    
@@ -230,7 +261,7 @@ Meta Developer Hub: Cast Device
 EloiTeaching  
 EloiStree Raw  
 
-Termux,Termuc, FDroid   
+  
   
 SideQuest PC, SideQuest Android  
 ~ , ~/storage/shared/document ,~/storage/shared/  
@@ -246,8 +277,9 @@ blocks color panel
 
 rappel: status add commit pull push branch checkout switch   
   
-Fossify File Manager  
 ?.tmaterial?  
+
+SDK, Oracle, 
 
    
 Challenger: faire passer les mains par devant les objest 3D en godot  
@@ -255,8 +287,6 @@ Savoir:
 - Detecter un scene recentrer  
 - Detecter quand le joueur est dans les menu Quest  
   
-
-
 
 
 
