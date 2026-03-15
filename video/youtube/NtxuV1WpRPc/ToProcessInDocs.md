@@ -6,6 +6,10 @@ Comment créer un projet Godot sur SteamVR et Quest 3 avec GitHub
 https://youtu.be/NtxuV1WpRPc
 
 
+List of accounts to have when you are a Godot Game Developer for Quest:  
+https://github.com/EloiStree/HelloGodotXR/issues/173  
+
+
 Selling point of this tutorial:
 https://youtu.be/NtxuV1WpRPc?t=10235
 
