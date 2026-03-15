@@ -211,16 +211,14 @@ Pack: [Open Blocks Color](https://github.com/EloiStree/HelloGodotXR/issues/123?r
 [VR Painting](https://github.com/EloiStree/HelloGodotXR/issues/126)  
 
 
+[File Extensions >](https://github.com/EloiStree/HelloGodotEngineKeyword/issues/280)
+.jpg . png .krita .glb, .fbx , .obj , .usb, 
+.wav .mp4 .ogg   
+.tscn .scn .tres .res .mesh .material
 
-.jpg . png .krita  
-.tscn   
-.glb, .fbx , .obj ?.openusb?, 
-.wav .mp4 .ogg  
 uv map   
-
 Sprite3D  
 Scene, Nested Scene, Prefab, Nested Prefab    
-
 Suzanne  
 Vertex Color, Vertex Painting, Shader, Degrader de couleur  
 File System > instanciate ( android)  
@@ -233,15 +231,12 @@ Blender Edit Mode Object Mode
 Blender > UV > Export UV Layout   
 UV Grids   
 Credit , Source   
-  
 CTRL + D Duplicate  
-SketchFab, Vertex, Triangle, Low Poly, Hight Poly  
+, Vertex, Triangle, Low Poly, Hight Poly  
 96 triangles, 4k 10k 50k 65k | 200k 2M...  
 Texture 1k 4k | 8K 16K?  
 3D Pivot  
 AudioListener2D  AudioStreamPlayer3D  
-Cubisme, Laser Dance  
-VRTK, MRTK, XRTK, Godot TK    
 Icosphere,      
 Cross Cube UV vs 8 Face UV vs 1 face UV  
 
@@ -254,9 +249,7 @@ Import ETC2 ASTC Texture
 
 ASMenu :SDK Manager   
 Google USB Driver   
-Google Web Driver  
-Java SDK Path  
-Android SDK Path  
+Google Web Driver
 20% Fun vs 80% Bloquer   
 Syndrome de l imposteur   
 arm64 vs x86 et x86_64  
@@ -267,11 +260,7 @@ Internet permission
 read/write ,external storage, permission   
 Request, HTTP, HTTPS, UDP, Websocket  
 Wifi USB Debugging ( voir adb )   
-adb devices     
-adb -s  
-  
-- [ ]   Android SDK  
-
+Android SDK  
 
 Rappel:
 LinkedIn, GitHub, Google, Google Auth, Protfolio, Itch.io account, Meta Account,    
@@ -281,12 +270,8 @@ android/
 /[Bb]uild/   
 Meta Developer Hub: ADB over Wi-fi    
 Meta Developer Hub: Cast Device   
+OBS: Window Capture ADB
 
-
-  
-  - [ ] OBS: Window Capture ADB
-
-SideQuest PC, SideQuest Android  
 ~ , ~/storage/shared/document ,~/storage/shared/  
 rm -r path/    
 git clone    
@@ -300,8 +285,6 @@ blocks color panel
 
 rappel: status add commit pull push branch checkout switch   
   
-?.tmaterial?  
-
 SDK, Oracle, 
 
    
@@ -310,86 +293,6 @@ Savoir:
 - Detecter un scene recentrer  
 - Detecter quand le joueur est dans les menu Quest  
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-JE SUIS ICI.
-
-
-
-
 
 
 https://youtu.be/NtxuV1WpRPc?t=1359 Utilisons Blend Mode > Alpha pour faire de la realiter augmenter plus tard.
