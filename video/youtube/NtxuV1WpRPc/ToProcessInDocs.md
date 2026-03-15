@@ -29,22 +29,24 @@ Software:
 - [ ] [Android Meta Horizon App](https://github.com/EloiStree/HelloGodotXR/issues/116)
 - [ ]  [SideQuest Window](https://github.com/EloiStree/HelloGodotXR/issues/118)
 - [ ] [Screen Copy](https://github.com/EloiStree/HelloGodotXR/issues/119)
-- [ ] Krita
-- [ ] Blender
-- [ ] Audacity
-- [ ] Godot
-- [ ] OBS
-- [ ] Brave opera GX  
-- [ ] BlockBench
-- [ ] Ink
+- [ ] [Krita](https://github.com/EloiStree/HelloGodotXR/issues/129)
+- [ ] [Blender](https://github.com/EloiStree/HelloGodotXR/issues/130)
+- [ ] [Audacity](https://github.com/EloiStree/HelloGodotXR/issues/131)
+- [ ] [Godot Engine](https://github.com/EloiStree/HelloGodotXR/issues/132)
+- [ ] [OBS: Open Broadcast Software](https://github.com/EloiStree/HelloGodotXR/issues/133)
+- [ ] [Brave](https://github.com/EloiStree/HelloGodotXR/issues/134)
+- [ ] [Opera GX](https://github.com/EloiStree/HelloGodotXR/issues/135?reload=1)  
+- [ ] [BlockBench](https://github.com/EloiStree/HelloGodotXR/issues/136)
+- [ ] [InkScape](https://github.com/EloiStree/HelloGodotXR/issues/137)
 - [ ] [OpenJDK](https://github.com/EloiStree/HelloGodotXR/issues/128)
-- [ ] Android Studio
-- [ ] OpenJDK17
-- [ ] WinDirStat 
-- [ ] FDroid   
-  - [ ] Termux,
-  - [ ] Termuc,
-  - [ ] Fossify File Manager   
+- [ ] [Android Studio](https://github.com/EloiStree/HelloGodotXR/issues/138)
+- [ ] [WinDirStat](https://github.com/EloiStree/HelloGodotXR/issues/139) 
+- [ ] [F-Droid](https://github.com/EloiStree/HelloGodotXR/issues/140)   
+  - [ ] [Termux](https://github.com/EloiStree/HelloGodotXR/issues/141),
+  - [ ] [Termuc](https://github.com/EloiStree/HelloGodotXR/issues/142),
+  - [ ] [Fossify File Manager](https://github.com/EloiStree/HelloGodotXR/issues/144)
+- [ ] [Visual Studio Code](https://github.com/EloiStree/HelloGodotXR/issues/157)
+- [ ] [Visual Studio Community](https://github.com/EloiStree/HelloGodotXR/issues/164?reload=1)
 - Game:
   - [Alyx](https://github.com/EloiStree/HelloGodotXR/issues/86)
   - [Cubism](https://github.com/EloiStree/HelloGodotXR/issues/98)
@@ -54,8 +56,8 @@ Software:
     - [VRTK](https://github.com/EloiStree/HelloGodotXR/issues/102)
     - [XRTK](https://github.com/EloiStree/HelloGodotXR/issues/103)
     - [Godot XR Tools](https://github.com/EloiStree/HelloGodotXR/issues/104)
-  - [ ] ShapeXR
- 
+  - [ ] [ShapesXR](https://github.com/EloiStree/HelloGodotXR/issues/147)
+  - [ ] [VR Painting App List](https://github.com/EloiStree/HelloGodotXR/issues/148)
 - Git:
   - [SourceTree](https://github.com/EloiStree/HelloGodotXR/issues/110)
   - [Fork](https://github.com/EloiStree/HelloGodotXR/issues/109)
@@ -68,15 +70,22 @@ Website:
 - [ ] Store
   - [ ] [Itchio](https://github.com/EloiStree/HelloGodotXR/issues/87)
   - [ ] [AppLab](https://github.com/EloiStree/HelloGodotXR/issues/88)
+  - [ ] [Steam](https://github.com/EloiStree/HelloGodotXR/issues/74)
+    - [ ] [Steamworks Developer Portal](https://github.com/EloiStree/HelloGodotXR/issues/165)
   - [ ] [Meta Store](https://github.com/EloiStree/HelloGodotXR/issues/89)
     - [ ] [Meta Store Developer Portal](https://github.com/EloiStree/HelloGodotXR/issues/114)
   - [ ] [Google Play Store](https://github.com/EloiStree/HelloGodotXR/issues/91)
     - [ ] [Google Play Console Developer Portal ](https://github.com/EloiStree/HelloGodotXR/issues/90)
 - [ ] [gitignore.io](https://github.com/EloiStree/HelloGodotXR/issues/111)
 - [ ] [https://auth.meta.com ](https://github.com/EloiStree/HelloGodotXR/issues/113)
-- [ ] EloiTeaching  
-- [ ] EloiStree Raw
+- [ ] [EloiTeaching](https://www.youtube.com/@EloiTeaching)  
+- [ ] [EloiStree Raw](https://github.com/EloiStree/HelloGodotXR/issues/146)
+- [ ] [Hello Godot Pi](https://www.youtube.com/@HelloGodotPi)
 - [ ] [Remove Background](https://github.com/EloiStree/HelloGodotXR/issues/127)
+
+
+Unstore:
+- [pkg install](https://github.com/EloiStree/HelloGodotXR/issues/143)
 
 Account:
 - Google Gmail Account
@@ -93,8 +102,8 @@ Exe:
 - [`adb.exe`](https://github.com/EloiStree/HelloGodotXR/issues/85)
 
 Window: 
-- Window PATH
-- User Account Control Setting
+- [Window PATH](https://github.com/EloiStree/HelloGodotXR/issues/150)
+- [User Account Control Setting](https://github.com/EloiStree/HelloGodotXR/issues/151)
 
 Godot engine:
 - XROrigine3D
@@ -121,8 +130,8 @@ Godot Engine XR:
 
 
 Asset Lib
-- AssetLib
-- Godot Xr Tools
+- [AssetLib](https://github.com/EloiStree/HelloGodotXR/issues/152)
+- [Godot Xr Tools](https://github.com/EloiStree/HelloGodotXR/issues/104)
 
 Shortcut:
 - 
@@ -133,6 +142,17 @@ ADB: [HelloAdb](https://github.com/EloiStree/HelloAdb)
 - [adb screenshot](https://github.com/EloiStree/HelloAdb/issues/5)
 - [adb -s](https://github.com/EloiStree/HelloAdb/issues/4)
 
+
+
+Hardware:
+- [Quest 3](https://github.com/EloiStree/HelloGodotXR/issues/153)
+- [Quest 3s](https://github.com/EloiStree/HelloGodotXR/issues/154)
+- [Steam Frame](https://github.com/EloiStree/HelloGodotXR/issues/159)
+- [Other Device](https://github.com/EloiStree/HelloGodotXR/issues/155?reload=1)  
+- [OTG](https://github.com/EloiStree/HelloGodotXR/issues/161)
+- [K235 Keyboard QWERTY](https://github.com/EloiStree/HelloGodotXR/issues/162)
+- [USB C Extension Cable](https://github.com/EloiStree/HelloGodotXR/issues/163)
+- 
 
 Vocabulaire:
 Version Control , language interpreter, language compiler,
