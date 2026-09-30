@@ -26,6 +26,8 @@ https://editor.godotengine.org/releases/4.4.1.stable/godot.editor.html
 Unstore find play list:
 - Godot in 90 Minutes: https://www.youtube.com/playlist?list=PLnEt5PBXuAmsMmS2w-mwnT1bk0JN2YyYM
 
+Good video for beginner:
+https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35 [From ->](https://www.reddit.com/r/godot/comments/1wtxuem/are_there_any_videoscontent_creators_you/)
 
 **Want to learn 🧐? Help junior asking help 😋** 
 [<img width="1654" height="1096" alt="image" src="https://github.com/user-attachments/assets/b463212b-0692-4c7d-9e51-e8cd0bda338b" />](https://discord.gg/godotengine)  
